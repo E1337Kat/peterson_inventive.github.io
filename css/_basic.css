@@ -1,0 +1,99 @@
+﻿a:active {
+	display: hidden;
+}
+
+body {
+}
+
+li {
+    float: left;
+}
+
+li a{
+    width: 200px;
+    display: block;
+    text-align: center;
+    color: #f1f1f1;
+    padding: 14px 16px;
+}
+
+li a:hover{
+    background-color: #0088B5;
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
+
+li a:hover:not(.active) {
+    background-color: #00BFFF;
+}
+
+li a.active{
+    color: white;
+    background-color: gray;
+}
+
+p.hidden  {
+	display: none;
+}
+
+p:target {
+	display: block;
+}
+
+td.contactAddress {
+
+}
+
+td.left {
+    text-align: right;
+}
+
+td.right {
+    text-align:left;
+}
+
+td a.phone:active {
+	display:hidden;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #555;
+}
+
+#container {
+	padding: 0px;
+	margin: 0px;
+    background-color: lightgray;
+
+}
+
+#content {
+
+}
+
+#header {
+    background-color: lightgray;
+}
+
+#navBar {
+    background-color: gray;
+
+}
+
+.logo {
+	padding: 10px;
+}
+
+.contact {
+    float: right;
+    background-color: #3d3d3d;
+    color: white;
+}
+
+.hidephone {
+	display: hidden;
+}

@@ -1,0 +1,17 @@
+<04/05/2014 16:58:29::588 0x2EF8> Module info - 
+
+Name: ipc.dll
+Path: C:\Program Files (x86)\YouTube Accelerator\ipc.dll
+Version: 3.3.9.5
+
+<04/05/2014 16:58:29::919 0x2EF8> [CEventThreadManager::StartClient]
+<04/05/2014 16:58:29::919 0x2EF8> [CCommData::StartClient] \\.\pipe\GOOBZO_VAPIPESERVERUI
+<04/05/2014 16:58:29::978 0x2EF8> [CCommDataManager::StartClient] - \\.\pipe\GOOBZO_VAPIPESERVERENG
+<04/05/2014 16:58:29::978 0x2EF8> [CCommData::StartClient] \\.\pipe\GOOBZO_VAPIPESERVERENG
+<04/05/2014 16:58:29::979 0x2EF8> [CCommDataManager::StartClient] - \\.\pipe\GOOBZO_VAPIPESERVERUI
+<04/05/2014 16:58:29::980 0x2EF8> [CCommData::StartClient] \\.\pipe\GOOBZO_VAPIPESERVERUI
+<04/05/2014 16:58:30::623 0x22CC> [CEventThreadManager::StartClient]
+<04/05/2014 16:58:30::624 0x22CC> [CCommData::StartClient] \\.\pipe\GOOBZO_VAPIPESERVERUI
+<04/05/2014 16:58:35::267 0x2EF8> [CCommData::Broadcast] Client: \\.\pipe\GOOBZO_VAPIPESERVERUI, Event: Global\GOOBZO_NAVIGATIONSUCCEEDED, code: 3
+<04/05/2014 16:58:44::130 0x2EF8> [CEventThreadManager::StopClient]
+<04/05/2014 16:58:44::130 0x2EF8> [CCommData::StopClient] \\.\pipe\GOOBZO_VAPIPESERVERUI

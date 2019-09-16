@@ -1,0 +1,97 @@
+<<<<<<<<<<<<<<<>>>>>>>>>>>>>>> MODULE DETAILS <<<<<<<<<<<<<<<>>>>>>>>>>>>>>>
+
+ModuleName:         C:\PROGRA~2\YOUTUB~1\YouTubeAcceleratorService.exe
+ProductName:        YouTube Accelerator
+CompanyName:        GOOBZO
+ProductVersion:     3.3.9.5
+OriginalFilename:   
+FileVersion:        3.3.9.5
+FileDescription:    
+<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>                <<<<<<<<<<<<<<<>>>>>>>>>>>>>>>
+
+
+<04/05/2014 16:52:35::416 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:52:40::422 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:52:45::433 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:52:50::151 0x16AC> [CAcceleratorService::ProcessTimeoutEvent] Got Engine Self Keep Alive Timeout Event
+<04/05/2014 16:52:50::473 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:52:55::474 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:00::478 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:05::486 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:10::531 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:15::503 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:20::511 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:25::519 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:30::530 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:35::538 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:40::546 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:45::547 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:50::165 0x16AC> [CAcceleratorService::ProcessTimeoutEvent] Got Engine Self Keep Alive Timeout Event
+<04/05/2014 16:53:50::555 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:53:55::577 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:00::572 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:05::583 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:10::593 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:15::627 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:20::636 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:25::646 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:30::810 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:35::799 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:40::808 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:45::817 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:50::206 0x16AC> [CAcceleratorService::ProcessTimeoutEvent] Got Engine Self Keep Alive Timeout Event
+<04/05/2014 16:54:51::042 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:54:56::051 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:01::139 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:06::188 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:11::202 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:16::202 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:21::212 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:26::294 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:31::292 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:36::293 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:41::301 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:46::314 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:50::208 0x16AC> [CAcceleratorService::ProcessTimeoutEvent] Got Engine Self Keep Alive Timeout Event
+<04/05/2014 16:55:51::322 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:55:56::322 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:01::331 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:06::339 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:11::350 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:16::359 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:21::364 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:26::372 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:31::377 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:36::386 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:41::411 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:46::421 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:50::222 0x16AC> [CAcceleratorService::ProcessTimeoutEvent] Got Engine Self Keep Alive Timeout Event
+<04/05/2014 16:56:51::425 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:56:56::434 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:01::442 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:06::452 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:11::456 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:16::482 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:21::572 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:26::595 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:31::622 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:36::671 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:41::665 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:46::678 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:50::331 0x16AC> [CAcceleratorService::ProcessTimeoutEvent] Got Engine Self Keep Alive Timeout Event
+<04/05/2014 16:57:51::722 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:57:56::729 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:01::775 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:06::813 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:11::813 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:16::863 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:21::893 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:26::887 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:31::897 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:36::917 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:41::925 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:46::931 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:50::341 0x16AC> [CAcceleratorService::ProcessTimeoutEvent] Got Engine Self Keep Alive Timeout Event
+<04/05/2014 16:58:51::978 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:58:56::942 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event
+<04/05/2014 16:59:01::954 0x16AC> [CAcceleratorService::ProcessEvent] Got Engine Keep Alive Event

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ascii"?>
+<GlobalInfo Writer="C:\Program Files (x86)\ShopperPro\JSDriver\1.36.1.172\jsdrv.exe" Creator="C:\Program Files (x86)\ShopperPro\JSDriver\1.36.1.172\jsdrv.exe">
+	<KEY name="HKEY_LOCAL_MACHINE">
+		<KEY name="SOFTWARE">
+			<KEY name="ShopperPro">
+				<KEY name="JsDriver">
+					<VALUE name="_br" data="xbox"/>
+					<VALUE name="_br_port" data="80"/>
+					<VALUE name="LSPTestSucceeded" data="1"/>
+					<VALUE name="TestingMode" data="0"/>
+					<VALUE name="ProxyPassThrough" data="0"/>
+					<VALUE name="AccelerateHighSpeed" data="1"/>
+					<VALUE name="DelayTime" data="2000"/>
+					<VALUE name="NumberOfConnections" data="1"/>
+					<VALUE name="BufferingTime" data="6"/>
+					<VALUE name="InitiateConnections" data="0"/>
+					<VALUE name="EnablePrefetch" data="0"/>
+					<VALUE name="StaticPrefetchBitrate" data="0"/>
+					<VALUE name="StaticPrefetchMaxBitrate" data="0"/>
+					<VALUE name="_ReuseConnections" data="1"/>
+					<VALUE name="LimitInitialConnections" data="0"/>
+					<VALUE name="_InitialMasterRangeSize" data="200"/>
+					<VALUE name="_StartCachingSize" data="150"/>
+					<VALUE name="_Conn1" data="5"/>
+					<KEY name="Engine">
+						<VALUE name="Mode" data="0"/>
+						<VALUE name="HttpListenIP" data="2130706433"/>
+						<VALUE name="HttpListenPort" data="0"/>
+						<VALUE name="HttpRedirectProxyDomain" data=""/>
+						<VALUE name="HttpRedirectProxyPort" data="0"/>
+						<VALUE name="HttpWorkerBufferLimit" data="1000"/>
+						<VALUE name="HttpHandleAll" data="1"/>
+					</KEY>
+					<KEY name="Tracer">
+						<VALUE name="TraceLevel" data="3"/>
+						<VALUE name="TraceDestination" data="3"/>
+						<VALUE name="TraceFolder" data="C:\Users\Public\Documents\GOOBZO\JsDriver\Log\"/>
+						<VALUE name="TracerDoBackup" data="1"/>
+						<VALUE name="MaxSize" data="80"/>
+					</KEY>
+					<VALUE name="ConfigXmlVer" data="20131113143800"/>
+					<VALUE name="ShowAds" data="0"/>
+					<KEY name="Stats">
+						<VALUE name="CollectStats" data="1"/>
+					</KEY>
+				</KEY>
+			</KEY>
+		</KEY>
+	</KEY>
+	<KEY name="HKEY_CURRENT_USER">
+		<KEY name="admin">
+			<KEY name="SOFTWARE">
+				<KEY name="ShopperPro">
+					<KEY name="JsDriver">
+						<VALUE name="ProductVersion" data="3.3.9.3"/>
+					</KEY>
+				</KEY>
+			</KEY>
+		</KEY>
+	</KEY>
+</GlobalInfo>

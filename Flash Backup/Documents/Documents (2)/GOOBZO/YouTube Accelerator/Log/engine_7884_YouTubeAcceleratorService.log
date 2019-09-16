@@ -1,0 +1,757 @@
+<<<<<<<<<<<<<<<>>>>>>>>>>>>>>> MODULE DETAILS <<<<<<<<<<<<<<<>>>>>>>>>>>>>>>
+
+ModuleName:         C:\PROGRA~2\YOUTUB~1\YouTubeAcceleratorService.exe
+ProductName:        YouTube Accelerator
+CompanyName:        GOOBZO
+ProductVersion:     3.3.9.5
+OriginalFilename:   
+FileVersion:        3.3.9.5
+FileDescription:    
+<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>                <<<<<<<<<<<<<<<>>>>>>>>>>>>>>>
+
+
+<04/05/2014 16:52:33::973 0x1FE0> [CLoader::ProcessEvent] m_UnInstallLSP - UnInstallLSP
+<04/05/2014 16:52:33::974 0x1FE0> [CLoader::UnInstallLSP]
+<04/05/2014 16:52:33::974 0x1FE0> [CLoader::RunLspInstaller] CreateProcess: C:\PROGRA~2\YOUTUB~1\lspinst.exe -u
+<04/05/2014 16:52:34::000 0x1FE0> [CEventsThread::SetTimeoutResolution] From: 5000 -> To: 5000
+<04/05/2014 16:52:34::000 0x1FE0> [CLoader::RunLspInstaller] Done.
+<04/05/2014 16:52:34::000 0x1FE0> [CLoader::UnInstallLSP] Reset Global Data
+<04/05/2014 16:52:34::000 0x1FE0> [CLoader::UnInstallLSP] Done - OK
+<04/05/2014 16:52:34::000 0x1FE0> [CLoader::UnInstallLSP] Alert result.
+<04/05/2014 16:52:39::592 0x1FE0> [CLoader::ProcessEvent] m_UninstallLspProcess - Uninstall LSP Done
+<04/05/2014 16:52:39::592 0x1FE0> [CLoader::ProcessEvent] m_UninstallLspProcess - GetExitCodeProcess() returned: 0
+<04/05/2014 16:52:39::592 0x1FE0> [CEventsThread::RemoveEvent] Event: 32
+<04/05/2014 16:54:35::116 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:35::116 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:35::205 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:35::205 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:36::999 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:36::999 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:38::527 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:38::530 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:39::287 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:39::288 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:39::553 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:39::554 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::125 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::126 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::141 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::142 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::167 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::168 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::272 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::272 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::273 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::273 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::275 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::275 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::275 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::275 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::276 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::276 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::276 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::276 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::278 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::279 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::279 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::279 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::279 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::280 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::280 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::280 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::280 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::281 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::281 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::281 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::281 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::282 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::282 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::282 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::282 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::282 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::283 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::283 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::283 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::283 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::283 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::284 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::284 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::284 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::284 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::285 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::285 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::285 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::285 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::286 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::286 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:40::288 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:40::813 0x1FE0> [CLoader::ProcessEvent] m_InstallLSP - InstallLSP
+<04/05/2014 16:54:40::814 0x1FE0> [CLoader::RunLspInstaller] CreateProcess: C:\PROGRA~2\YOUTUB~1\lspinst.exe
+<04/05/2014 16:54:40::824 0x1FE0> [CEventsThread::SetTimeoutResolution] From: 5000 -> To: 5000
+<04/05/2014 16:54:40::824 0x1FE0> [CLoader::RunLspInstaller] Done.
+<04/05/2014 16:54:40::824 0x1FE0> [CLoader::InstallLsp] Done - OK
+<04/05/2014 16:54:46::083 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:46::084 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:46::156 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:46::156 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:46::287 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:46::303 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:46::884 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:46::884 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:47::813 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:47::814 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:47::856 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:47::856 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:47::959 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:47::959 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:49::000 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:49::000 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:54:49::439 0x1FE0> [CLoader::ProcessEvent] m_InstallLspProcess - Install LSP Done
+<04/05/2014 16:54:49::439 0x1FE0> [CLoader::ProcessEvent] m_InstallLspProcess - GetExitCodeProcess returned: -1
+<04/05/2014 16:54:49::440 0x1FE0> [CEventsThread::RemoveEvent] Event: 33
+<04/05/2014 16:54:56::983 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:54:56::983 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::353 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::353 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::353 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::354 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::354 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::354 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::354 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::355 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::355 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::355 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::355 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::356 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::356 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::356 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::356 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::356 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::357 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::357 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::357 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::357 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::358 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::358 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::358 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::359 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::359 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::359 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::359 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::360 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::360 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::360 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::360 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::361 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::361 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::361 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::361 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::362 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::362 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::362 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::362 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::363 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::363 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::364 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::364 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::364 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::365 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::365 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::365 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::365 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::847 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::848 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::848 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::849 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::849 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::849 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::850 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::850 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::850 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::850 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::851 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::851 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::851 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::852 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::852 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::852 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::853 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::853 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::853 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::854 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::854 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::854 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::854 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::855 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::855 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::856 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::856 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::856 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::857 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::857 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::858 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::858 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::858 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::859 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::859 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::859 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::860 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::860 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::860 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::861 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::861 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::862 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::862 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::863 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::864 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::864 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::864 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::865 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::865 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::865 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::866 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::866 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::866 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::867 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::867 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::868 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::868 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::868 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::869 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::869 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::869 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::870 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::870 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::871 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::871 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::872 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::872 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::872 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::873 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::873 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::874 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::874 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::874 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::875 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::875 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::875 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::876 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::876 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::876 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::877 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::877 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::878 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::878 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::878 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::879 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::879 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::880 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::880 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::880 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::881 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::881 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::882 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::882 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::883 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::883 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::884 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::885 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::885 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::885 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::886 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::886 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::887 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::887 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::887 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::888 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::888 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::889 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::889 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::890 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::890 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::891 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::891 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::892 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::892 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::893 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::893 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::893 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::894 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::897 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::897 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::898 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::898 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::899 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::900 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::900 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::900 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::901 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::901 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::902 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::902 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::903 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::903 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::988 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::989 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::989 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::990 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::991 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::991 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::991 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::992 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::992 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::992 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::993 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::993 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:30::993 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:30::994 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::374 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::375 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::375 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::376 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::376 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::377 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::377 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::378 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::378 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::381 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::381 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::382 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::383 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::383 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::384 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::384 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::385 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::385 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::386 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::386 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::386 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::387 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::387 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::388 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::388 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::389 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::389 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::390 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::392 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::394 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::394 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::395 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::395 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::396 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::396 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::397 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::397 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::397 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::398 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::399 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::399 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::400 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::400 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::401 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::401 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::402 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::402 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::403 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::404 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::404 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::405 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::405 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::407 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::407 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::407 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::408 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::408 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::408 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::409 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::409 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::409 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::410 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::410 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::410 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::464 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::464 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::603 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::604 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:32::604 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:32::604 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::281 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::282 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::282 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::283 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::283 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::284 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::285 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::285 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::286 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::287 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::287 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::288 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::288 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::289 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::289 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::290 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::290 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::291 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::291 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::292 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::292 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::293 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::293 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::298 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::298 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::299 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::299 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::300 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::300 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::301 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::301 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::302 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::302 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::303 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::303 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::303 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::304 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::304 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::305 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::305 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::306 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::306 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::306 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::307 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::307 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::307 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::308 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::308 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::309 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::309 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::309 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::310 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::310 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::311 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::311 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::312 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::312 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::313 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::313 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::313 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::313 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::314 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::314 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::315 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::379 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::380 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::380 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::381 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:33::381 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:33::382 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::093 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::093 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::097 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::098 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::098 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::099 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::100 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::101 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::101 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::101 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::102 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::102 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::103 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::104 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::105 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::105 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::106 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::107 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::108 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::108 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::109 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::109 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::110 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::110 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::110 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::111 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::111 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::112 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::112 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::113 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::113 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::114 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::114 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::115 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::115 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::116 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::117 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::117 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::118 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::118 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::132 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::132 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::144 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::144 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::145 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::145 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::145 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::145 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::146 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::146 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::146 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::147 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::147 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::148 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::148 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::148 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::149 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::149 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::149 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::150 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::150 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::150 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::150 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::151 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::151 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::151 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::152 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::152 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::152 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::153 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::154 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::155 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::156 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::156 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::156 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::157 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::157 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::157 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::158 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::158 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::158 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::159 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::159 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::159 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::160 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::160 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::160 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::161 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::161 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::161 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::161 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::162 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::162 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::163 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::163 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::163 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::164 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::164 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::164 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::165 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::165 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::165 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::166 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::166 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::167 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::167 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::168 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::168 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::169 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::169 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::171 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::171 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::171 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::172 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::172 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::173 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::173 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::174 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::174 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::174 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::186 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::186 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:34::247 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - LSP configuration has changed, event 31
+<04/05/2014 16:56:34::248 0x1FE0> [CLoader::ProcessEvent] m_nLSPConfChangedEvent - Added 31
+<04/05/2014 16:56:42::544 0x1FE0> [CLoader::ProcessEvent] m_LoadServiceModulesIndex - Check if we can load modules
+<04/05/2014 16:56:42::544 0x1FE0> [CLoader::IsToLoadModules]
+<04/05/2014 16:56:42::545 0x1FE0> [CLoader::IsUIRunning]
+<04/05/2014 16:56:42::547 0x1FE0> [CLoader::IsUIRunning] --> UI Running
+<04/05/2014 16:56:42::547 0x1FE0> [CLoader::IsToLoadModules] TRUE
+<04/05/2014 16:56:42::548 0x1FE0> [CLoader::ProcessEvent] m_LoadServiceModulesIndex - Loading Modules
+<04/05/2014 16:56:42::549 0x1FE0> [CLoader::LoadModules] Started
+<04/05/2014 16:56:42::549 0x1FE0> [CLoader::CheckForUpdate]
+<04/05/2014 16:56:42::549 0x1FE0> [CAsyncUpdate::CheckForUpdatesAsync]
+<04/05/2014 16:56:42::549 0x1FE0> [CAsyncUpdate::UpdateXMLVersion]
+<04/05/2014 16:56:42::549 0x1FE0> [AccelerationConfiguration::Init]
+<04/05/2014 16:56:42::553 0x1FE0> [AccelerationConfiguration::Init] Read/Decoded Rules from DAT file: C:\Users\Public\Documents\GOOBZO\YouTube Accelerator\va_conf.dat
+<04/05/2014 16:56:42::561 0x1FE0> [AccelerationConfiguration::OnEndDoc] Update Rules By XML SUCCEEDED - Going To Replace Rule List
+<04/05/2014 16:56:42::562 0x1FE0> [AccelerationConfiguration::Init] Done.
+<04/05/2014 16:56:42::565 0x1FE0> [CCoreConfig::InitConfig] Product Name YouTube Accelerator UseRegistry 1
+<04/05/2014 16:56:42::565 0x1FE0> [Core::CheckForUpdatesAsync]
+<04/05/2014 16:56:42::566 0x1FE0> [Core::PerformAsyncUpdateCheck]
+<04/05/2014 16:56:42::566 0x1FE0> [Core::ShouldUpdate] YES
+<04/05/2014 16:56:42::567 0x1FE0> [Core::BuildUpdateURL] ___ALERT___ Alert Info = 
+<04/05/2014 16:56:42::567 0x1FE0> [Core::BuildUpdateURL] URL = http://online.GOOBZO.com/online/update.aspx?CV=2.0.0.0&ProductID=12000&UserID=029059cf-7cc5-4a9a-b1be-b5e4d8003afd&Password=RFCUCEOl&OS=10&V=3.3.9.5&VS=1&Beta=0&Aff=lim0&BundleID=NONE&BrandID=NONE&PartnerList=&XMLVersion=20131113143800&XMLUpdateFailed=0&UpdateReason=0&resver=1.0.0.8&VA_Aff=NONE&ElapsedTime=1399237002
+<04/05/2014 16:56:42::567 0x1FE0> [Core::PerformAsyncUpdateCheck] URL = http://online.GOOBZO.com/online/update.aspx?CV=2.0.0.0&ProductID=12000&UserID=029059cf-7cc5-4a9a-b1be-b5e4d8003afd&Password=RFCUCEOl&OS=10&V=3.3.9.5&VS=1&Beta=0&Aff=lim0&BundleID=NONE&BrandID=NONE&PartnerList=&XMLVersion=20131113143800&XMLUpdateFailed=0&UpdateReason=0&resver=1.0.0.8&VA_Aff=NONE&ElapsedTime=1399237002&SBPIDS=0
+<04/05/2014 16:56:42::568 0x1FE0> [Core::RequestURL] Filename = C:\Windows\TEMP\SBC488.tmp, URL = http://online.GOOBZO.com/online/update.aspx?CV=2.0.0.0&ProductID=12000&UserID=029059cf-7cc5-4a9a-b1be-b5e4d8003afd&Password=RFCUCEOl&OS=10&V=3.3.9.5&VS=1&Beta=0&Aff=lim0&BundleID=NONE&BrandID=NONE&PartnerList=&XMLVersion=20131113143800&XMLUpdateFailed=0&UpdateReason=0&resver=1.0.0.8&VA_Aff=NONE&ElapsedTime=1399237002&SBPIDS=0
+<04/05/2014 16:56:42::569 0x1FE0> [Core::PerformAsyncUpdateCheck] done
+<04/05/2014 16:56:42::569 0x1FE0> [CAsyncUpdate::CheckForUpdatesAsync]
+<04/05/2014 16:56:42::569 0x1FE0> [CAsyncUpdate::UpdateXMLVersion]
+<04/05/2014 16:56:42::569 0x1FE0> [AccelerationConfiguration::Init]
+<04/05/2014 16:56:42::573 0x1FE0> [AccelerationConfiguration::Init] Read/Decoded Rules from DAT file: C:\Users\Public\Documents\GOOBZO\YouTube Accelerator\va_conf.dat
+<04/05/2014 16:56:42::582 0x1FE0> [AccelerationConfiguration::OnEndDoc] Update Rules By XML SUCCEEDED - Going To Replace Rule List
+<04/05/2014 16:56:42::583 0x1FE0> [AccelerationConfiguration::Init] Done.
+<04/05/2014 16:56:42::586 0x1BFC> [CLSPFilter::CLSPFilter]
+<04/05/2014 16:56:42::586 0x1BFC> [CLSPFilter::CLSPFilter] Module: C:\PROGRA~2\YOUTUB~1\YouTubeAcceleratorService.exe
+<04/05/2014 16:56:42::587 0x1BFC> Module info - 
+
+Name: engine.dll
+Path: C:\Program Files (x86)\YouTube Accelerator\engine.dll
+Version: 3.3.9.5
+
+<04/05/2014 16:56:42::587 0x1FE0> [CCoreConfig::InitConfig] Product Name YouTube Accelerator UseRegistry 1
+<04/05/2014 16:56:42::587 0x1FE0> [Core::CheckForUpdatesAsync]
+<04/05/2014 16:56:42::587 0x1BFC> [CheckIsAllowedToLoad] Module: C:\PROGRA~2\YOUTUB~1\YouTubeAcceleratorService.exe
+<04/05/2014 16:56:42::587 0x1BFC> [CLSPFilter::CheckIsAllowedToLoad] Installed: C:\Program Files (x86)\YouTube Accelerator\engine.dll
+<04/05/2014 16:56:42::588 0x1FE0> [EngineConfiguration::GetCurrentUserKey] User Key: 4F
+<04/05/2014 16:56:42::588 0x1FE0> [CConfig::IsLastTestingSucceeded] XML - Status = 0
+<04/05/2014 16:56:42::588 0x1FE0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:42::588 0x1FE0> [CLoader::CreateRedirectController]
+<04/05/2014 16:56:42::588 0x1FE0> [CLoader::MakeSureOurPacFileNotApplied]
+<04/05/2014 16:56:42::588 0x1FE0> [CRedirectController::CRedirectController]
+<04/05/2014 16:56:42::588 0x1FE0> [EngineConfiguration::GetCurrentUserKey] User Key: 4F
+<04/05/2014 16:56:42::589 0x1FE0> [CRedirectController::GetAllProxySettings]
+<04/05/2014 16:56:42::589 0x1FE0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:42::589 0x1FE0> [CRedirectController::GetTestingMode] 1
+<04/05/2014 16:56:42::589 0x1FE0> [CRedirectController::GetProxyConfiguration]
+<04/05/2014 16:56:42::589 0x1FE0> [CIEInternetProxySettings]
+<04/05/2014 16:56:42::589 0x1FE0> [CIEInternetProxySettings]
+<04/05/2014 16:56:42::589 0x1FE0> [CIEInternetProxySettings]
+<04/05/2014 16:56:42::589 0x1FE0> [ProxySettingsConfiguration::ProxySettingsConfiguration]
+<04/05/2014 16:56:42::589 0x1FE0> [CIEInternetProxySettings::GetCurrentUserKey] User Key: 0000004F
+<04/05/2014 16:56:42::589 0x1FE0> [CIEInternetProxySettings::GetCurrentUserKey] User Key: 0000004F
+<04/05/2014 16:56:42::589 0x1FE0> [CIEInternetProxySettings]
+<04/05/2014 16:56:42::590 0x1FE0> [~CIEInternetProxySettings]
+<04/05/2014 16:56:42::590 0x1FE0> [ProxySettingsConfiguration::RetriveExisting]
+<04/05/2014 16:56:42::590 0x1F38> [CRetrieveIEProxySettings - OnProcessCommand]
+<04/05/2014 16:56:42::590 0x1F38> [CIEInternetProxySettings::RetriveProxyConfiguration - Enter]
+<04/05/2014 16:56:42::591 0x1BFC> [CLSPFilter::BuildWhiteList]
+<04/05/2014 16:56:42::591 0x1BFC> [CLSPFilter::GetCurrenProcessUserName] Name: SYSTEM
+<04/05/2014 16:56:42::591 0x1BFC> [CLSPFilter::CheckIsAllowedToLoad] GetCurrentProcessUserName: SYSTEM
+<04/05/2014 16:56:42::591 0x1BFC> [CLSPFilter::CheckIsAllowedToLoad] FALSE - a none user process
+<04/05/2014 16:56:42::591 0x1BFC> [CLSPFilter::CLSPFilter] Done.
+<04/05/2014 16:56:42::591 0x1BFC> [CLSPFilter::~CLSPFilter]
+<04/05/2014 16:56:42::592 0x1BFC> [CLSPFilter::Unload]
+<04/05/2014 16:56:42::592 0x1BFC> [CLSPFilter::~CLSPFilter] Done.
+<04/05/2014 16:56:42::812 0x1F38> [CIEInternetProxySettings::RetriveProxyConfiguration - Exit]
+<04/05/2014 16:56:42::813 0x1FE0> [CRedirectController::MakeSureOurPacFileNotApplied]
+<04/05/2014 16:56:42::813 0x1FE0> [CRedirectController::GetAllProxySettings]
+<04/05/2014 16:56:42::813 0x1FE0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:42::813 0x1FE0> [CRedirectController::GetTestingMode] 1
+<04/05/2014 16:56:42::813 0x1FE0> [CRedirectController::GetProxyConfiguration]
+<04/05/2014 16:56:42::813 0x1FE0> [CIEInternetProxySettings]
+<04/05/2014 16:56:42::813 0x1FE0> [ProxySettingsConfiguration::RetriveExisting]
+<04/05/2014 16:56:42::813 0x1F38> [CRetrieveIEProxySettings - OnProcessCommand]
+<04/05/2014 16:56:42::813 0x1F38> [CIEInternetProxySettings::RetriveProxyConfiguration - Enter]
+<04/05/2014 16:56:42::945 0x1F38> [CIEInternetProxySettings::RetriveProxyConfiguration - Exit]
+<04/05/2014 16:56:42::945 0x1FE0> [~CIEInternetProxySettings]
+<04/05/2014 16:56:42::945 0x1FE0> [CIEInternetProxySettings::IsOptionIncluded] NOT Found - Option: 1, Value: 4
+<04/05/2014 16:56:42::945 0x1FE0> [CRedirectController::IsOurPacFileExist] No pac file exists !
+<04/05/2014 16:56:42::945 0x1FE0> [CRedirectController::~CRedirectController]
+<04/05/2014 16:56:42::945 0x1FE0> [IRedirectController::CreateInstance] FullMode
+<04/05/2014 16:56:42::945 0x1FE0> [CRedirectController::CRedirectController]
+<04/05/2014 16:56:42::946 0x1FE0> [EngineConfiguration::GetCurrentUserKey] User Key: 4F
+<04/05/2014 16:56:42::946 0x1FE0> [CRedirectController::CRedirectController]
+<04/05/2014 16:56:42::946 0x1FE0> [EngineConfiguration::GetCurrentUserKey] User Key: 4F
+<04/05/2014 16:56:42::946 0x1FE0> [CLspController::CLspController]
+<04/05/2014 16:56:42::946 0x1FE0> [CLspController::Init]
+<04/05/2014 16:56:42::947 0x1FE0> [CConfig::IsXBoxMode] Status = 0
+<04/05/2014 16:56:42::947 0x1FE0> [CLspController::IsPartner] partner = 0
+<04/05/2014 16:56:42::947 0x1FE0> [CFullController::CFullController]
+<04/05/2014 16:56:42::947 0x1FE0> [CFullController::Init]
+<04/05/2014 16:56:42::947 0x1FE0> [EngineConfiguration::GetCurrentUserKey] User Key: 4F
+<04/05/2014 16:56:42::947 0x1FE0> [CConfig::IsXBoxMode] Status = 0
+<04/05/2014 16:56:42::948 0x1FE0> [CLoader::GetMode] Engine Mode = 3
+<04/05/2014 16:56:42::948 0x1FE0> [CLoader::GetMode] Engine Mode = 3
+<04/05/2014 16:56:42::948 0x1FE0> [CConfig::IsXBoxMode] Status = 0
+<04/05/2014 16:56:42::948 0x1FE0> [CLoader::StartRedirectController]
+<04/05/2014 16:56:42::948 0x1FE0> [CFullController::SetRedirectInfo]
+<04/05/2014 16:56:42::948 0x1FE0> [CLspController::SetRedirectInfo]
+<04/05/2014 16:56:42::948 0x1FE0> [CFullController::Start]
+<04/05/2014 16:56:42::948 0x1FE0> [CLspController::Start]
+<04/05/2014 16:56:42::948 0x1FE0> [CLspController::CreateSharedMemory]
+<04/05/2014 16:56:42::950 0x1FE0> [CLspController::InitPartner]
+<04/05/2014 16:56:42::950 0x1FE0> [CLspController::UpdateCurrentPartener]
+<04/05/2014 16:56:42::950 0x1FE0> [CLspController::UpdateCurrentPartener] YouTube Accelerator
+<04/05/2014 16:56:42::950 0x1FE0> [CLspController::UpdateCurrentPartener] Done.
+<04/05/2014 16:56:42::950 0x1FE0> [CLspController::InitAccelerationStatusEvents]
+<04/05/2014 16:56:42::950 0x1FE0> [CLspController::InitAccelerationStatusEvents] Done.
+<04/05/2014 16:56:42::950 0x1FE0> [CLspController::UpdatePartnersList]
+<04/05/2014 16:56:42::950 0x1FE0> [CLspController::UpdatePartnersList] Done.
+<04/05/2014 16:56:42::950 0x1FE0> [CLspController::InitTunnelingState] 
+<04/05/2014 16:56:42::950 0x1FE0> [CLspController::InitTunnelingState] g_PassThrough[ YouTube Accelerator ] = 0
+<04/05/2014 16:56:42::951 0x1FE0> [CFullController::UpdateVersionStatus]
+<04/05/2014 16:56:42::951 0x1FE0> [CLspController::UpdateVersionStatus] New Status: 1
+<04/05/2014 16:56:42::951 0x1FE0> [CLspController::UpdateVersionStatus] Status: 1 (0)
+<04/05/2014 16:56:42::951 0x1FE0> [CLoader::EnableDnsController]
+<04/05/2014 16:56:42::951 0x1FE0> [CLoader::EnableDnsController] m_pIDnsController = NULL
+<04/05/2014 16:56:42::951 0x1FE0> [CLoader::CreateDnsController]
+<04/05/2014 16:56:42::951 0x1FE0> [CConfig::IsXBoxMode] Status = 0
+<04/05/2014 16:56:42::952 0x1FE0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:42::952 0x1FE0> [CLoader::NotifyTestingWizard]
+<04/05/2014 16:56:42::952 0x1FE0> [CLoader::NotifyTestingWizard] Going to check the modules initialization state
+<04/05/2014 16:56:42::952 0x1FE0> [CLoader::NotifyTestingWizard] ---***--- ALL_MODULES_WHERE_STARTED ---***---
+<04/05/2014 16:56:42::952 0x1FE0> [CLoader::LoadModules] Service_Loaded - SUCCESS
+<04/05/2014 16:56:42::964 0x1BFC> [Core::AnalyzeXMLResult] Filename = C:\Windows\TEMP\SBC488.tmp
+<04/05/2014 16:56:42::965 0x1BFC> [Core::AnalyzeXMLResult] done
+<04/05/2014 16:56:42::965 0x1BFC> [CAlertMgr::HandleNewAlert] Got empty alert info
+<04/05/2014 16:56:42::965 0x1BFC> [CAlertMgr::HandleNewAlert] Got empty alert info
+<04/05/2014 16:56:42::965 0x1BFC> [Core::AnalyzeUpdateResult]
+<04/05/2014 16:56:42::965 0x1BFC> [CAsyncUpdate::UpdateSearchComplete] Result: 0, UpdateExist: 0
+<04/05/2014 16:56:42::968 0x1BFC> [IRedirectController::CreateInstance] FullMode
+<04/05/2014 16:56:42::968 0x1BFC> [CAsyncUpdate::UpdateXMLVersion]
+<04/05/2014 16:56:42::968 0x1BFC> [AccelerationConfiguration::Init]
+<04/05/2014 16:56:42::973 0x1BFC> [AccelerationConfiguration::Init] Read/Decoded Rules from DAT file: C:\Users\Public\Documents\GOOBZO\YouTube Accelerator\va_conf.dat
+<04/05/2014 16:56:42::988 0x1BFC> [AccelerationConfiguration::OnEndDoc] Update Rules By XML SUCCEEDED - Going To Replace Rule List
+<04/05/2014 16:56:42::989 0x1BFC> [AccelerationConfiguration::Init] Done.
+<04/05/2014 16:56:42::992 0x1BFC> [CLoader::UpdateVersionStatus] Status: 1 (1)
+<04/05/2014 16:56:42::992 0x1BFC> [CRedirectController::CRedirectController]
+<04/05/2014 16:56:42::992 0x1BFC> [EngineConfiguration::GetCurrentUserKey] User Key: 4F
+<04/05/2014 16:56:42::992 0x1BFC> [CRedirectController::~CRedirectController]
+<04/05/2014 16:56:42::992 0x1BFC> [CFullController::UpdateVersionStatus]
+<04/05/2014 16:56:42::993 0x1BFC> [CLspController::UpdateVersionStatus] New Status: 1
+<04/05/2014 16:56:42::993 0x1BFC> [CLspController::UpdateVersionStatus] Status: 1 (1)
+<04/05/2014 16:56:42::993 0x1BFC> [CConfig::IsXBoxMode] Status = 0
+<04/05/2014 16:56:42::993 0x1BFC> [CFullController::UpdatedPartnerDisableList]
+<04/05/2014 16:56:42::993 0x1BFC> [CLspController::UpdatedPartnerDisableList] PartnerDisableList =   
+<04/05/2014 16:56:42::993 0x1BFC> [CLspController::SetPassThrough]
+<04/05/2014 16:56:43::146 0x1BFC> [CLspController::SetPassThrough] g_PassThrough[ RealDownloader ] = 0
+<04/05/2014 16:56:43::149 0x1BFC> [CLspController::SetPassThrough]
+<04/05/2014 16:56:43::518 0x1BFC> [CLspController::SetPassThrough] g_PassThrough[ YouTube Accelerator ] = 0
+<04/05/2014 16:56:43::518 0x1BFC> [CAsyncUpdate::AnalizeXMLResults]
+<04/05/2014 16:56:43::523 0x1BFC> [CConfig::ReplaceProcessesBlackList]
+<04/05/2014 16:56:43::525 0x1BFC> [CConfig::ReplaceProcessesBlackList]
+<04/05/2014 16:56:43::525 0x1BFC> [IRedirectController::CreateInstance] FullMode
+<04/05/2014 16:56:43::526 0x1BFC> [CFullController::GetPremiumModeFlag]
+<04/05/2014 16:56:43::526 0x1BFC> [CLspController::GetVersionStatus] VesrionStatus = 1
+<04/05/2014 16:56:43::526 0x1BFC> [CAsyncUpdate::UpdateSearchComplete] version status = 1
+<04/05/2014 16:56:43::526 0x1BFC> [HttpParser::Reset]
+<04/05/2014 16:56:43::526 0x1BFC> [HttpParser::Reset]
+<04/05/2014 16:56:43::526 0x1BFC> [HttpProxyWorker - 0343B808] FDM=0 (2).
+<04/05/2014 16:56:43::526 0x1BFC> [CEventsThread::CEventsThread]
+<04/05/2014 16:56:43::528 0x1BFC> [CAccelerationStats::SetCollectStats]
+<04/05/2014 16:56:43::529 0x1BFC> [CAccelerationStats::StopActiveRequest]
+<04/05/2014 16:56:43::529 0x1BFC> [CAccelerationStats::StopActiveRequest] Done
+<04/05/2014 16:56:43::530 0x1BFC> [CEventsThread::~CEventsThread]
+<04/05/2014 16:56:43::531 0x1BFC> [CEventsThread::Cleanup]
+<04/05/2014 16:56:43::531 0x1BFC> [CEventsThread::Stop - Enter] TID=0
+<04/05/2014 16:56:43::531 0x1BFC> [CEventsThread::Stop - Leave] TID=0
+<04/05/2014 16:56:43::531 0x1BFC> [CEventsThread::Cleanup] Closing Handle: 2
+<04/05/2014 16:56:43::531 0x1BFC> [HttpProxyWorker::Stop] FDM=0 (2)
+<04/05/2014 16:56:43::531 0x1BFC> [HttpProxyWorker::Stop] FDM=0 (2),Req:0 - Going to stop the worker.
+<04/05/2014 16:56:43::531 0x1BFC> [HttpProxyWorker::Stop] FDM=0 (2),Req:0 - Worker was STOPPED.
+<04/05/2014 16:56:43::532 0x1BFC> [~HttpProxyWorker - 0343B808] FDM=0 (2).
+<04/05/2014 16:56:43::532 0x1BFC> [HttpParser::Reset]
+<04/05/2014 16:56:43::532 0x1BFC> [HttpParser::Reset]
+<04/05/2014 16:58:55::749 0x1FE0> [CLoader::ProcessEvent] m_CommTestSucceeded - UI Comm. test succeeded
+<04/05/2014 16:58:55::816 0x1FE0> [CLoader::SetLastTestSucceeded] InstalledLspVersion: 1.0.0.1
+<04/05/2014 16:58:55::818 0x1FE0> [CLoader::ProcessEvent] m_CommTestSucceeded - Added 31 m_nLSPConfChangedEvent
+<04/05/2014 16:59:04::459 0x1FE0> [CLoader::ProcessEvent] m_SetTracerOff - Set Trace OFF
+<04/05/2014 16:59:04::489 0x1FE0> [CConfig::SetTracer] Status = 0

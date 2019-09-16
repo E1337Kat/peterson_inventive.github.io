@@ -1,0 +1,364 @@
+<<<<<<<<<<<<<<<>>>>>>>>>>>>>>> MODULE DETAILS <<<<<<<<<<<<<<<>>>>>>>>>>>>>>>
+
+ModuleName:         C:\Program Files (x86)\YouTube Accelerator\YouTubeAccelerator.exe
+ProductName:        YouTube Accelerator
+CompanyName:        GOOBZO
+ProductVersion:     3.3.8.9
+OriginalFilename:   
+FileVersion:        3.3.8.9
+FileDescription:    
+<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>                <<<<<<<<<<<<<<<>>>>>>>>>>>>>>>
+
+
+<04/05/2014 16:52:33::717 0x1EC0> [CEventsThread::~CEventsThread]
+<04/05/2014 16:52:33::717 0x1EC0> [CEventsThread::Cleanup]
+<04/05/2014 16:52:33::717 0x1EC0> [CEventsThread::Stop - Enter] TID=0
+<04/05/2014 16:52:33::718 0x1EC0> [CEventsThread::Stop - Leave] TID=0
+<04/05/2014 16:52:33::720 0x1EC0> [CCommTest::ProcessNextState]
+<04/05/2014 16:52:33::720 0x1EC0> [CCommTest::ProcessNextState] State = PreTest
+<04/05/2014 16:52:33::720 0x1EC0> [CCommTest::StartPreTest]
+<04/05/2014 16:52:33::720 0x1EC0> [CSA_GUIApp::UnInstallLSP]
+<04/05/2014 16:52:33::721 0x1EC0> [CEventsThread::CEventsThread]
+<04/05/2014 16:52:33::721 0x1EC0> [CEventsThread::SetGlobalEvent] Event: 1
+<04/05/2014 16:52:33::721 0x1EC0> [CEventsThread::SetGlobalEvent] Event: 2
+<04/05/2014 16:52:33::721 0x1EC0> [CEventsThread::WaitEvent] TID=1EC0
+<04/05/2014 16:52:33::721 0x1EC0> [CEventsThread::WaitForMultipleEvents] TID=1EC0
+<04/05/2014 16:52:33::721 0x1EC0> [CSA_GUIDlg::OnNavigateSucceeded]
+<04/05/2014 16:52:33::735 0x1EC0> CSABaseWebWindow::OnNavigateComplete : url = C:\Users\Public\Documents\GOOBZO\YouTube Accelerator\Res\VARes_1000008\blank.html
+<04/05/2014 16:52:33::748 0x1EC0> [CSANotifierWebWindow::ReplaceLNGTags]
+<04/05/2014 16:52:33::749 0x1EC0> [CSANotifierWebWindow::ReplaceLNGTags] length 0
+<04/05/2014 16:52:33::817 0x1EC0> CSABaseWebWindow::OnDocumentComplete : url = C:/Users/Public/Documents/GOOBZO/YouTube Accelerator/Res/VARes_1000008/blank.html
+<04/05/2014 16:52:35::413 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:52:35::416 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:52:35::440 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:52:35::441 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:52:37::470 0x1EC0> [CSA_GUIDlg::OnNavigateSucceeded]
+<04/05/2014 16:52:40::431 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:52:40::433 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:52:45::431 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:52:45::438 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:52:46::365 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:52:46::365 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:52:50::574 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:52:50::577 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:52:55::441 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:52:55::442 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:52:55::478 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:52:55::480 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:00::478 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:00::482 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:05::486 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:05::489 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:10::528 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:10::530 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:15::457 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:15::458 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:53:15::503 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:15::506 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:20::519 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:20::527 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:25::539 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:25::541 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:30::594 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:30::596 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:35::467 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:35::467 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:53:35::541 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:35::547 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:36::535 0x1EC0> CSANotifierWebWindow::SetMetaData GOT 'width'
+<04/05/2014 16:53:36::535 0x1EC0> CSANotifierWebWindow::SetMetaData GOT 'height'
+<04/05/2014 16:53:36::535 0x1EC0> CSABaseWebWindow::OnNavigateComplete : url = C:\Users\Public\Documents\GOOBZO\YouTube Accelerator\Res\VARes_1000008\premium_video_accelerator.mht
+<04/05/2014 16:53:40::546 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:40::548 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:45::547 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:45::550 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:46::378 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:46::379 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:53:50::556 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:50::559 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:55::549 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:53:55::549 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:53:55::578 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:53:55::584 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:00::627 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:00::630 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:05::584 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:05::586 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:10::593 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:10::595 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:15::861 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:15::861 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:54:15::861 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:15::863 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:20::636 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:20::637 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:22::206 0x1EC0> [CSANotifierWebWindow::ReplaceLNGTags]
+<04/05/2014 16:54:22::207 0x1EC0> [CSANotifierWebWindow::ReplaceLNGTags] length 0
+<04/05/2014 16:54:22::214 0x1EC0> CSABaseWebWindow::OnDocumentComplete : url = C:/Users/Public/Documents/GOOBZO/YouTube Accelerator/Res/VARes_1000008/premium_video_accelerator.mht
+<04/05/2014 16:54:22::219 0x1EC0> [CSA_GUIDlg::OnNavigateSucceeded]
+<04/05/2014 16:54:22::450 0x1EC0> CSABaseWebWindow::Navigate : url = C:\Users\Public\Documents\GOOBZO\YouTube Accelerator\Res\VARes_1000008\blank.html
+<04/05/2014 16:54:22::466 0x1EC0> CSABaseWebWindow::Navigate : url = C:\Users\Public\Documents\GOOBZO\YouTube Accelerator\Res\VARes_1000008\premium_VIDEO_ACCELERATOR.MHT
+<04/05/2014 16:54:22::477 0x1EC0> CSABaseWebWindow::OnNavigateComplete : url = C:\Users\Public\Documents\GOOBZO\YouTube Accelerator\Res\VARes_1000008\blank.html
+<04/05/2014 16:54:22::480 0x1EC0> [CSANotifierWebWindow::ReplaceLNGTags]
+<04/05/2014 16:54:22::480 0x1EC0> [CSANotifierWebWindow::ReplaceLNGTags] length 0
+<04/05/2014 16:54:22::483 0x1EC0> CSABaseWebWindow::OnDocumentComplete : url = C:/Users/Public/Documents/GOOBZO/YouTube Accelerator/Res/VARes_1000008/blank.html
+<04/05/2014 16:54:22::495 0x1EC0> [CSA_GUIDlg::OnNavigateSucceeded]
+<04/05/2014 16:54:25::644 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:25::646 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:26::047 0x1EC0> CSANotifierWebWindow::SetMetaData GOT 'width'
+<04/05/2014 16:54:26::047 0x1EC0> CSANotifierWebWindow::SetMetaData GOT 'height'
+<04/05/2014 16:54:26::047 0x1EC0> CSABaseWebWindow::OnNavigateComplete : url = C:\Users\Public\Documents\GOOBZO\YouTube Accelerator\Res\VARes_1000008\premium_video_accelerator.mht
+<04/05/2014 16:54:30::885 0x1EC0> [CSANotifierWebWindow::ReplaceLNGTags]
+<04/05/2014 16:54:30::886 0x1EC0> [CSANotifierWebWindow::ReplaceLNGTags] length 0
+<04/05/2014 16:54:30::890 0x1EC0> CSABaseWebWindow::OnDocumentComplete : url = C:/Users/Public/Documents/GOOBZO/YouTube Accelerator/Res/VARes_1000008/premium_video_accelerator.mht
+<04/05/2014 16:54:30::891 0x1EC0> [CSA_GUIDlg::OnNavigateSucceeded]
+<04/05/2014 16:54:30::893 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:30::895 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:31::050 0x1EC0> [CSA_GUIApp::UnInstallLSP] ___Error to UnInstall LSP
+<04/05/2014 16:54:31::050 0x1EC0> [CEventsThread::~CEventsThread]
+<04/05/2014 16:54:31::050 0x1EC0> [CEventsThread::Cleanup]
+<04/05/2014 16:54:31::050 0x1EC0> [CEventsThread::Stop - Enter] TID=0
+<04/05/2014 16:54:31::051 0x1EC0> [CEventsThread::Stop - Leave] TID=0
+<04/05/2014 16:54:31::051 0x1EC0> [CCommTest::StartPreTest] ___Error Uninstall LSP
+<04/05/2014 16:54:31::051 0x1EC0> [CCommTest::StartNetworkTest]
+<04/05/2014 16:54:31::051 0x1EC0> [CCommTest::IsNetworkEnable]
+<04/05/2014 16:54:34::132 0x1EC0> [CCommTest::IsNetworkEnable] IS Enabled !!!
+<04/05/2014 16:54:34::132 0x1EC0> [CCommTest::NetworkTestSucceeded]
+<04/05/2014 16:54:34::132 0x1EC0> [CCommTest::StartConnectionTest]
+<04/05/2014 16:54:34::132 0x1EC0> [CCommTest::CreateDlgIfNeeded]
+<04/05/2014 16:54:34::417 0x1EC0> [CCommTestDlg::ResetConnectionTimer]
+<04/05/2014 16:54:34::417 0x1EC0> [CCommTestDlg::ResetConnectionTimer] SetTimer: 56443736
+<04/05/2014 16:54:34::417 0x1EC0> CSABaseWebWindow::Navigate : url = http://test.youtubeaccelerator.com/video_accelerator/wizardtest/SMALLTEST.HTM?random=4787920&mode=nolsp
+<04/05/2014 16:54:35::799 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:35::801 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:35::874 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:35::874 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:54:40::810 0x1EC0> CSABaseWebWindow::OnNavigateComplete : url = http://test.youtubeaccelerator.com/video_accelerator/wizardtest/SMALLTEST.HTM?random=4787920&mode=nolsp
+<04/05/2014 16:54:40::811 0x1EC0> CSABaseWebWindow::OnDocumentComplete : url = http://test.youtubeaccelerator.com/video_accelerator/wizardtest/SMALLTEST.HTM?random=4787920&mode=nolsp
+<04/05/2014 16:54:40::812 0x1EC0> [CCommTestDlg::OnNavigateSucceeded]
+<04/05/2014 16:54:40::812 0x1EC0> [CCommTestDlg::KillAllTimers]
+<04/05/2014 16:54:40::812 0x1EC0> [CCommTestDlg::KillAllTimers] m_ConnectivityCheckTimer Timer: 56443736
+<04/05/2014 16:54:40::812 0x1EC0> [CCommTest::ConnectionTestSucceeded]
+<04/05/2014 16:54:40::812 0x1EC0> [CCommTest::PreTestSucceeded]
+<04/05/2014 16:54:40::812 0x1EC0> [CCommTest::ProcessNextState]
+<04/05/2014 16:54:40::812 0x1EC0> [CCommTest::ProcessNextState] State = ServiceTest
+<04/05/2014 16:54:40::812 0x1EC0> [CCommTest::StartServiceTest]
+<04/05/2014 16:54:40::812 0x1EC0> [CCommTest::StopNavigation]
+<04/05/2014 16:54:40::813 0x1EC0> [CSA_GUIApp::InstallLSP]
+<04/05/2014 16:54:40::813 0x1EC0> [CEventsThread::CEventsThread]
+<04/05/2014 16:54:40::813 0x1EC0> [CEventsThread::SetGlobalEvent] Event: 1
+<04/05/2014 16:54:40::813 0x1EC0> [CEventsThread::SetGlobalEvent] Event: 2
+<04/05/2014 16:54:40::828 0x1EC0> [CEventsThread::WaitEvent] TID=1EC0
+<04/05/2014 16:54:40::829 0x1EC0> [CEventsThread::WaitForMultipleEvents] TID=1EC0
+<04/05/2014 16:54:40::829 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:41::187 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:45::817 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:45::819 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:46::396 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:46::396 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:54:52::843 0x1EC0> [CEventsThread::WaitForMultipleEvents] Released on Signaled: 17988 ms
+<04/05/2014 16:54:52::843 0x1EC0> [CSA_GUIApp::InstallLSP] ___Error Got InstalledLSPFailed Event
+<04/05/2014 16:54:52::843 0x1EC0> [CSA_GUIApp::InstallLSP] ___Error Got TimeOut
+<04/05/2014 16:54:52::843 0x1EC0> [CEventsThread::~CEventsThread]
+<04/05/2014 16:54:52::843 0x1EC0> [CEventsThread::Cleanup]
+<04/05/2014 16:54:52::843 0x1EC0> [CEventsThread::Stop - Enter] TID=0
+<04/05/2014 16:54:52::843 0x1EC0> [CEventsThread::Stop - Leave] TID=0
+<04/05/2014 16:54:52::843 0x1EC0> [CCommTest::StartServiceTest] ___Error Install LSP, trying another method...
+<04/05/2014 16:54:52::843 0x1EC0> [CSA_GUIApp::InstallLSPAlternativeMethod]
+<04/05/2014 16:54:52::844 0x1EC0> [CSA_GUIDlg::RunLspInstaller]
+<04/05/2014 16:54:52::846 0x1EC0> [CSA_GUIDlg::RunLspInstaller] Executing LSP Installer process: C:\Program Files (x86)\YouTube Accelerator\lspinst2.exe
+<04/05/2014 16:54:52::846 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:52::849 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:56::050 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:54:56::050 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:54:56::058 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:54:56::064 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:01::466 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:01::467 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:06::298 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:06::300 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:11::411 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:11::413 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:16::060 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:16::066 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:55:16::202 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:16::204 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:21::213 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:21::215 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:27::268 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:27::271 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:31::293 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:31::295 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:36::076 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:36::076 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:55:36::314 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:36::315 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:41::303 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:41::305 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:46::314 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:46::316 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:46::404 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:46::404 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:55:51::322 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:51::324 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:56::155 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:55:56::155 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:55:56::322 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:55:56::324 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:01::332 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:01::335 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:06::341 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:06::343 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:11::347 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:11::349 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:15::213 0x1EC0> [CSA_GUIDlg::RunLspInstaller] Wait for LSP Installer process to complete for 180000 milsecs...
+<04/05/2014 16:56:16::166 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:16::168 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:56:16::356 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:16::358 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:21::364 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:21::367 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:26::372 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:26::375 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:31::377 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:31::381 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:36::183 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:36::183 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:56:36::386 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:36::389 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:40::188 0x1EC0> [CSA_GUIDlg::RunLspInstaller] LSP installer returned successfuly
+<04/05/2014 16:56:40::188 0x1EC0> [CSA_GUIApp::InstallLSPAlternativeMethod] Success
+<04/05/2014 16:56:40::188 0x1EC0> [CCommTest::StartServiceTest] Succeded installing LSP with the second method!
+<04/05/2014 16:56:40::188 0x1EC0> [CCommTest::SetEngineMode] 3
+<04/05/2014 16:56:41::411 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:42::221 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:42::510 0x1EC0> [CSA_GUIApp::LoadServiceModules]
+<04/05/2014 16:56:42::510 0x1EC0> [CEventsThread::CEventsThread]
+<04/05/2014 16:56:42::524 0x1EC0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:42::524 0x1EC0> [CEventsThread::SetGlobalEvent] Event: 1
+<04/05/2014 16:56:42::525 0x1EC0> [CEventsThread::SetGlobalEvent] Event: 2
+<04/05/2014 16:56:42::525 0x1EC0> [CServiceController::RunCommand] Args: -start -sn=YoutubeAcceleratorService
+<04/05/2014 16:56:42::525 0x1EC0> [CServiceController::GetArgsFromCmd] Enter
+<04/05/2014 16:56:42::525 0x1EC0> [CServiceController::GetArgsFromCmd] Exit
+<04/05/2014 16:56:42::525 0x1EC0> [CServiceController::Start] Enter
+<04/05/2014 16:56:42::525 0x1EC0> [CServiceController::Start] Going to start the service YoutubeAcceleratorService
+<04/05/2014 16:56:42::525 0x1EC0> [CServiceController::Start] ___Error OpenSCManager Failed: 5
+<04/05/2014 16:56:42::525 0x1EC0> [CServiceController::Start] Exit
+<04/05/2014 16:56:42::526 0x1EC0> [CServiceController::RunCommand] Exit
+<04/05/2014 16:56:42::528 0x1EC0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:42::529 0x1EC0> [CEventsThread::WaitEvent] TID=1EC0
+<04/05/2014 16:56:42::529 0x1EC0> [CEventsThread::WaitForMultipleEvents] TID=1EC0
+<04/05/2014 16:56:42::958 0x1EC0> [CEventsThread::WaitForMultipleEvents] Released on Signaled: 14564 ms
+<04/05/2014 16:56:42::958 0x1EC0> [CSA_GUIApp::LoadServiceModules] Done.
+<04/05/2014 16:56:42::959 0x1EC0> [CEventsThread::~CEventsThread]
+<04/05/2014 16:56:42::959 0x1EC0> [CEventsThread::Cleanup]
+<04/05/2014 16:56:42::959 0x1EC0> [CEventsThread::Stop - Enter] TID=0
+<04/05/2014 16:56:42::965 0x1EC0> [CEventsThread::Stop - Leave] TID=0
+<04/05/2014 16:56:42::966 0x1EC0> [CCommTest::ServiceTestSucceeded]
+<04/05/2014 16:56:42::967 0x1EC0> [CCommTestDlg::KillAllTimers]
+<04/05/2014 16:56:42::968 0x1EC0> [CCommTest::ProcessNextState]
+<04/05/2014 16:56:42::968 0x1EC0> [CCommTest::ProcessNextState] State = NavigationTest
+<04/05/2014 16:56:42::968 0x1EC0> [CCommTest::StartGuiTest]
+<04/05/2014 16:56:42::968 0x1EC0> [CEventsThread::CEventsThread]
+<04/05/2014 16:56:42::968 0x1EC0> [CEventsThread::SetGlobalEvent] Event: 1
+<04/05/2014 16:56:46::418 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:46::418 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:56:46::418 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:46::421 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:51::425 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:51::427 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:56::197 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:56:56::197 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:56:56::436 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:56:56::439 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:01::442 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:01::444 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:06::472 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:06::475 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:11::477 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:11::478 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:16::219 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:16::219 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:57:16::471 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:16::473 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:21::793 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:21::796 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:26::626 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:26::629 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:31::632 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:31::636 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:36::349 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:36::349 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:57:36::664 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:36::666 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:41::662 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:41::665 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:46::458 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:46::458 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:57:46::691 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:46::710 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:51::896 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:51::899 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:56::374 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:57:56::374 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:57:56::756 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:57:56::758 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:02::209 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:02::214 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:07::204 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:07::207 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:11::814 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:11::818 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:16::394 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:16::394 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:58:16::863 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:16::866 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:21::935 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:21::937 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:26::496 0x1EC0> [CEventsThread::WaitEvent] TID=1EC0
+<04/05/2014 16:58:26::496 0x1EC0> [CEventsThread::WaitForMultipleEvents] TID=1EC0
+<04/05/2014 16:58:26::891 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:26::893 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:31::897 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:31::899 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:35::279 0x1EC0> [CEventsThread::WaitForMultipleEvents] Released on Signaled: 81217 ms
+<04/05/2014 16:58:35::279 0x1EC0> [CCommTest::GuiTestSucceeded]
+<04/05/2014 16:58:35::279 0x1EC0> [CCommTest::StopNavigation]
+<04/05/2014 16:58:36::417 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:36::417 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:58:37::741 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:37::745 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:40::474 0x1EC0> [CCommTestDlg::KillAllTimers]
+<04/05/2014 16:58:40::474 0x1EC0> [CCommTest::CommTestSucceeded]
+<04/05/2014 16:58:41::926 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:41::928 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:46::472 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:46::472 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:58:46::927 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:46::930 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:51::961 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:51::963 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:54::933 0x1EC0> [CSA_GUIApp::SetTestingSucceeded] InstalledLspVersion: 1.0.0.1
+<04/05/2014 16:58:55::748 0x1EC0> [CEventsThread::CEventsThread]
+<04/05/2014 16:58:55::756 0x1EC0> [CEventsThread::~CEventsThread]
+<04/05/2014 16:58:55::756 0x1EC0> [CEventsThread::Cleanup]
+<04/05/2014 16:58:55::756 0x1EC0> [CEventsThread::Stop - Enter] TID=0
+<04/05/2014 16:58:55::756 0x1EC0> [CEventsThread::Stop - Leave] TID=0
+<04/05/2014 16:58:55::818 0x1EC0> [CConfig::SetLastTestingSucceeded] LastTestingSucceeded = 1 (XML)
+<04/05/2014 16:58:56::461 0x11C0> [CConfig::IsTestingMode] TestingMode = 1 (XML)
+<04/05/2014 16:58:56::461 0x11C0> CSAGuiEventsThread::ProcessTimeoutEvent - still in testing mode, ignoring all events
+<04/05/2014 16:58:56::534 0x1EC0> [CSA_GUIApp::UpdateRunOnStartup]
+<04/05/2014 16:58:56::535 0x1EC0> [CSA_GUIApp::UpdateRunOnStartup] Creating Run on startup registry key for "C:\Program Files (x86)\YouTube Accelerator\YouTubeAccelerator.exe" /startup
+<04/05/2014 16:58:56::959 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:58:57::853 0x1EC0> [CConfig::SetTestingMode] TestingMode = 0 (XML)
+<04/05/2014 16:58:57::853 0x11C0> [CConfig::IsTestingMode] TestingMode = 0 (XML)
+<04/05/2014 16:58:57::853 0x11C0> CSAGuiEventsThread::OnServiceKeepAlive()
+<04/05/2014 16:58:57::853 0x1EC0> [CSilentCommTest::OnCommTestSucceeded]
+<04/05/2014 16:58:57::857 0x1EC0> [CSA_GUIDlg::SetServiceIsEnable]
+<04/05/2014 16:58:59::098 0x1EC0> [EngineConfiguration::GetCurrentUserKey] User Key: 25
+<04/05/2014 16:58:59::263 0x1EC0> [CConfig::SetTracer] Status = 0
+<04/05/2014 16:59:01::965 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive
+<04/05/2014 16:59:02::496 0x11C0> [CConfig::IsTestingMode] TestingMode = 0 (XML)
+<04/05/2014 16:59:02::496 0x11C0> CSAGuiEventsThread::OnServiceKeepAlive()
+<04/05/2014 16:59:04::458 0x1EC0> [CEventsThread::CEventsThread]
+<04/05/2014 16:59:06::959 0x11C0> CSAGuiEventsThread::ProcessEvent : m_ServiceKeepAlive

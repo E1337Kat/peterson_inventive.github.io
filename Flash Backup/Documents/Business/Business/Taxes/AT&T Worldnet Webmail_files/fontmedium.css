@@ -1,0 +1,45 @@
+#message-header-table TH {
+	FONT-SIZE: 8pt
+}
+#message-table TH {
+	FONT-SIZE: 8pt
+}
+#message-header-table TD {
+	FONT-SIZE: 9pt
+}
+#message-table TD {
+	FONT-SIZE: 9pt
+}
+.subitem A {
+	FONT-SIZE: 9pt
+}
+.mailboxitem A {
+	FONT-SIZE: 9pt
+}
+.subitemselect A {
+	FONT-SIZE: 9pt
+}
+.mailboxitemselect A {
+	FONT-SIZE: 9pt
+}
+.listunread {
+	FONT-SIZE: 12px
+}
+.listread {
+	FONT-SIZE: 12px
+}
+.blacktext {
+	FONT-SIZE: 11px
+}
+.blacktextbold {
+	FONT-SIZE: 11px
+}
+.formtext {
+	FONT-SIZE: 13px
+}
+#mailboxTitle {
+	FONT-SIZE: 9pt
+}
+DIV.secondary_nav_home A {
+	FONT-SIZE: 9pt
+}

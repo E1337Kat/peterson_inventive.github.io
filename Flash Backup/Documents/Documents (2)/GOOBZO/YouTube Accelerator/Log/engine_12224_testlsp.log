@@ -1,0 +1,272 @@
+<04/05/2014 16:58:29::976 0x2EF8> Module info - 
+
+Name: engine.dll
+Path: C:\Program Files (x86)\YouTube Accelerator\engine.dll
+Version: 3.3.9.5
+
+<04/05/2014 16:58:29::976 0x2EF8> [CAcceleratedEventsThread::CreateEvents]
+<04/05/2014 16:58:29::977 0x2EF8> [CEventsThread::SetTimeoutResolution] From: -1 -> To: 86400000
+<04/05/2014 16:58:29::977 0x2EF8> [CEventsThread::SetGlobalEvent] Event: 13
+<04/05/2014 16:58:29::977 0x2EF8> [CEventsThread::SetGlobalEvent] Event: 14
+<04/05/2014 16:58:29::977 0x2EF8> [CEventsThread::SetGlobalEvent] Event: 15
+<04/05/2014 16:58:29::977 0x2EF8> [CEventsThread::SetGlobalEvent] Event: 16
+<04/05/2014 16:58:29::977 0x2EF8> [CEventsThread::SetGlobalEvent] Event: 17
+<04/05/2014 16:58:29::977 0x2EF8> [CEventsThread::SetTimeoutResolution] From: 86400000 -> To: 10000
+<04/05/2014 16:58:29::977 0x2EF8> [CAcceleratedEventsThread] - Register impersonation
+<04/05/2014 16:58:29::977 0x2EF8> [CImpersonateThread::RegisterImpersonateLogonEvent]
+<04/05/2014 16:58:29::977 0x2EF8> [CAcceleratedEventsThread] - Start the Pipe Clients to the Engine & UI
+<04/05/2014 16:58:29::980 0x2EF8> [CAcceleratedEventsThread] - end
+<04/05/2014 16:58:29::980 0x2EF8> [CBaseProviderProc::CBaseProviderProc]
+<04/05/2014 16:58:29::991 0x2EF8> [CLspLoader::CLspLoader]
+<04/05/2014 16:58:29::991 0x2EF8> [CLspLoader::Init]
+<04/05/2014 16:58:30::491 0x2EF8> [CLspLoader::SetRedirectFilter]
+<04/05/2014 16:58:30::491 0x2EF8> [CFullController::SetRedirectFilter]
+<04/05/2014 16:58:30::491 0x2EF8> [CLspController::SetRedirectFilter]
+<04/05/2014 16:58:30::530 0x2EF8> [CLSPFilter::CLSPFilter]
+<04/05/2014 16:58:30::530 0x2EF8> [CLSPFilter::CLSPFilter] Module: C:\Program Files (x86)\YouTube Accelerator\testlsp.exe
+<04/05/2014 16:58:30::531 0x2EF8> Module info - 
+
+Name: engine.dll
+Path: C:\Program Files (x86)\YouTube Accelerator\engine.dll
+Version: 3.3.9.5
+
+<04/05/2014 16:58:30::531 0x2EF8> [CheckIsAllowedToLoad] Module: C:\Program Files (x86)\YouTube Accelerator\testlsp.exe
+<04/05/2014 16:58:30::531 0x2EF8> [CLSPFilter::CheckIsAllowedToLoad] Installed: C:\Program Files (x86)\YouTube Accelerator\engine.dll
+<04/05/2014 16:58:30::536 0x2EF8> [CLSPFilter::BuildWhiteList]
+<04/05/2014 16:58:30::536 0x2EF8> [CLSPFilter::GetCurrenProcessUserName] Name: admin
+<04/05/2014 16:58:30::536 0x2EF8> [CLSPFilter::CheckIsAllowedToLoad] GetCurrentProcessUserName: admin
+<04/05/2014 16:58:30::537 0x2EF8> [CLSPFilter::CheckIsAllowedToLoad] GetCurrentProcessIntegrityLevel: Medium
+<04/05/2014 16:58:30::537 0x2EF8> [CLSPFilter::BuildBlackList]
+<04/05/2014 16:58:30::537 0x2EF8> [CLSPFilter::BuildBlackList] Added black list from server: crss;svchost;ActSage.exe;cdasf.exe;wlidsvc.exe;wlcomm.exe;agent.exe;ASC.exe;sump.exe;Audials.exe;TeamViewer;
+<04/05/2014 16:58:30::537 0x2EF8> [CLSPFilter::CheckIsAllowedToLoad] TRUE
+<04/05/2014 16:58:30::537 0x2EF8> [CLSPFilter::CLSPFilter] Done.
+<04/05/2014 16:58:30::565 0x2EF8> [CBaseProviderProc::Initialize]
+<04/05/2014 16:58:30::565 0x2EF8> [CLSPFilter::WSPStartup]
+<04/05/2014 16:58:30::565 0x2EF8> [CBaseProviderProc::AddProtocol]
+<04/05/2014 16:58:30::570 0x22CC> [CLSPFilter::Work]
+<04/05/2014 16:58:30::570 0x22CC> [CLSPFilter::LoadAccelerator]
+<04/05/2014 16:58:30::570 0x22CC> [CLspLoader::Load]
+<04/05/2014 16:58:30::571 0x22CC> [CRedirectController::CRedirectController]
+<04/05/2014 16:58:30::571 0x22CC> [EngineConfiguration::GetCurrentUserKey] User Key: 80000001
+<04/05/2014 16:58:30::614 0x22CC> [CConfig::IsXBoxMode] Status = 0
+<04/05/2014 16:58:30::614 0x22CC> [CRedirectController::~CRedirectController]
+<04/05/2014 16:58:30::614 0x22CC> [CEventsThread::CEventsThread]
+<04/05/2014 16:58:30::624 0x22CC> [ProxyServer::Initialize]
+<04/05/2014 16:58:30::624 0x22CC> [ProxyServer::Initialize] Going to create an instance of IAccelerationConfiguration.
+<04/05/2014 16:58:30::624 0x22CC> [AccelerationConfiguration::Init]
+<04/05/2014 16:58:30::635 0x22CC> [AccelerationConfiguration::Init] Read/Decoded Rules from DAT file: C:\Users\Public\Documents\GOOBZO\YouTube Accelerator\va_conf.dat
+<04/05/2014 16:58:30::657 0x22CC> [AccelerationConfiguration::OnEndDoc] Update Rules By XML SUCCEEDED - Going To Replace Rule List
+<04/05/2014 16:58:30::657 0x22CC> [Core]
+<04/05/2014 16:58:30::657 0x22CC> [~Core]
+<04/05/2014 16:58:30::658 0x22CC> [AccelerationConfiguration::Init] Done.
+<04/05/2014 16:58:30::658 0x22CC> [ProxyServer::Initialize] An instance of IAccelerationConfiguration was created.
+<04/05/2014 16:58:30::658 0x22CC> [NetworkEventsSink::NetworkEventsSink] 03161FD0
+<04/05/2014 16:58:30::658 0x22CC> [NetworkEventsSink::Initialize] The instance (03161FD0) of NetworkEventsSink was initialized.
+<04/05/2014 16:58:30::658 0x22CC> [NetworkEventsSink::Start]
+<04/05/2014 16:58:30::659 0x2E5C> [NetworkEventsSink::Work] The class GOOBZO Network Events Sink Window was register.
+<04/05/2014 16:58:30::747 0x2E5C> [NetworkEventsSink::Work] A message window was created.
+<04/05/2014 16:58:30::747 0x2E5C> [NetworkEventsSink::Work] The message loop was started.
+<04/05/2014 16:58:30::748 0x22CC> [CNetworkInterfaceManager]
+<04/05/2014 16:58:30::749 0x22CC> [CNetworkInterfaceManager::Start]
+<04/05/2014 16:58:30::749 0x22CC> [ProxyExtensionYouTube] ShowAds: 1
+<04/05/2014 16:58:30::749 0x22CC> [ProxyExtensionYouTube] ID: 100
+<04/05/2014 16:58:30::749 0x22CC> [ProxyExtensionComcast] ID: 101
+<04/05/2014 16:58:30::750 0x22CC> [ProxyServer::Initialize] Created & Initialized
+<04/05/2014 16:58:30::750 0x22CC> [ProxyServer::Start] Proxy type: 0
+<04/05/2014 16:58:30::750 0x22CC> [IRedirectController::CreateInstance] FullMode
+<04/05/2014 16:58:30::750 0x22CC> [IGeneralProxyServer::CreateInstance] Create - CLspGeneralProxyServer - LSP MODE
+<04/05/2014 16:58:30::750 0x22CC> [CacheManager - 031626A8]
+<04/05/2014 16:58:30::750 0x22CC> [GeneralProxyServer]
+<04/05/2014 16:58:30::750 0x22CC> [CVirtualAsyncSocket] (ID=1)
+<04/05/2014 16:58:30::750 0x22CC> [CVirtualAsyncSocket::Reset] virtual socket -1
+<04/05/2014 16:58:30::750 0x22CC> [GeneralProxyServer::Start] Waiting for Initialzation Thread...
+<04/05/2014 16:58:30::751 0x2E2C> [GeneralProxyServer::UpdateLocalIPs]
+<04/05/2014 16:58:30::751 0x2E2C> [GeneralProxyServer::UpdateLocalIPs] IP: 0.0.0.0
+<04/05/2014 16:58:30::751 0x2E2C> [GeneralProxyServer::UpdateLocalIPs] IP: 127.0.0.1
+<04/05/2014 16:58:30::751 0x2E2C> [GeneralProxyServer::UpdateLocalIPs] IP: 1.0.0.127
+<04/05/2014 16:58:30::767 0x23BC> [CNetworkInterfaceManager::Work]
+<04/05/2014 16:58:30::925 0x2E2C> [GeneralProxyServer::UpdateLocalIPs] IP: 192.168.1.11
+<04/05/2014 16:58:30::925 0x2E2C> [GeneralProxyServer::Work] Finish Updating local IPs
+<04/05/2014 16:58:30::925 0x2E2C> [GeneralProxyServer::StartListening]
+<04/05/2014 16:58:30::926 0x2E2C> [CBaseProviderProc::AddProtocol]
+<04/05/2014 16:58:30::927 0x2E2C> [NetworkEventsSink::AddToSocketsMap] socket 1080 - was added to sockets map.
+<04/05/2014 16:58:30::927 0x2E2C> [NetworkEventsSink::ClearSocketMessages] Messages: 0
+<04/05/2014 16:58:30::927 0x2E2C> [CVirtualAsyncSocket::AsyncSelect] virtual socket 1080 - Events: 0x28
+<04/05/2014 16:58:30::927 0x2E2C> [CVirtualAsyncSocket::AsyncSelect] virtual socket 1080 - Created
+<04/05/2014 16:58:30::927 0x2E2C> [NetworkEventsSink::AddAsyncSocket] socket 1080 - Added to events sink
+<04/05/2014 16:58:30::927 0x2E2C> [CVirtualAsyncSocket::Initialize] virtual socket -1 <--> 1080
+<04/05/2014 16:58:30::927 0x2E2C> [GeneralProxyServer::StartListening] Try listening on IP: 127.0.0.1, Port: 80
+<04/05/2014 16:58:30::927 0x2E2C> [CVirtualAsyncSocket::Bind] virtual socket 1080 - IP: 127.0.0.1, Port: 80
+<04/05/2014 16:58:30::927 0x2E2C> [CVirtualAsyncSocket::Listen] virtual socket 1080
+<04/05/2014 16:58:30::927 0x2E2C> [GeneralProxyServer::StartListening] Listening on port: 80
+<04/05/2014 16:58:30::927 0x2E2C> [GeneralProxyServer::Work] Start Listening to network traffic.
+<04/05/2014 16:58:30::944 0x22CC> [GeneralProxyServer::Start] Released from Initialzation Thread
+<04/05/2014 16:58:30::944 0x22CC> [ProxyServer::CreateGeneralProxyServer] *** GENERAL Proxy Server - Created and Started ***
+<04/05/2014 16:58:30::944 0x22CC> [IRedirectController::CreateInstance] FullMode
+<04/05/2014 16:58:30::944 0x22CC> [IHttpProxyServer::CreateInstance] Create - LspHttpProxyServer - LSP MODE
+<04/05/2014 16:58:30::944 0x22CC> [HttpProxyServer::HttpProxyServer]
+<04/05/2014 16:58:30::945 0x22CC> [CVirtualAsyncSocket] (ID=2)
+<04/05/2014 16:58:30::945 0x22CC> [CVirtualAsyncSocket::Reset] virtual socket -1
+<04/05/2014 16:58:30::945 0x22CC> [HttpProxyServer::Initialize]
+<04/05/2014 16:58:30::945 0x22CC> [ProxyServer::CreateHttpProxyServer] HTTP Proxy Server - already started
+<04/05/2014 16:58:30::945 0x22CC> [ProxyServer::Start] *** HTTP proxy was started ***
+<04/05/2014 16:58:30::945 0x22CC> [HttpParser::Reset]
+<04/05/2014 16:58:30::945 0x22CC> [HttpParser::Reset]
+<04/05/2014 16:58:30::945 0x22CC> [HttpProxyWorker - 03164350] FDM=0 (1).
+<04/05/2014 16:58:30::945 0x22CC> [CEventsThread::CEventsThread]
+<04/05/2014 16:58:30::946 0x2DD8> [HttpProxyServer::Work] - Start...
+<04/05/2014 16:58:30::946 0x2DD8> [HttpProxyServer::UpdateLocalIPs]
+<04/05/2014 16:58:30::946 0x2DD8> [HttpProxyServer::UpdateLocalIPs] IP: 0.0.0.0
+<04/05/2014 16:58:30::946 0x2DD8> [HttpProxyServer::UpdateLocalIPs] IP: 127.0.0.1
+<04/05/2014 16:58:30::946 0x2DD8> [HttpProxyServer::UpdateLocalIPs] IP: 1.0.0.127
+<04/05/2014 16:58:30::947 0x22CC> [AsyncSocket]
+<04/05/2014 16:58:30::947 0x22CC> [HttpProxyWorker::InitializeSocket] FDM=0 (1),Req:0 *** new socket ***
+<04/05/2014 16:58:30::947 0x22CC> [AsyncSocket::Initialize]
+<04/05/2014 16:58:30::947 0x22CC> [CBaseProviderProc::WSPSocket]
+<04/05/2014 16:58:30::947 0x22CC> [AsyncSocket::Initialize] socket 1184 - SO_SNDBUF: 8192
+<04/05/2014 16:58:30::947 0x22CC> [AsyncSocket::Initialize] socket 1184 - changed SO_SNDBUF: 1048576
+<04/05/2014 16:58:30::947 0x22CC> [NetworkEventsSink::AddToSocketsMap] socket 1184 - was added to sockets map.
+<04/05/2014 16:58:30::948 0x22CC> [NetworkEventsSink::ClearSocketMessages] Messages: 0
+<04/05/2014 16:58:30::948 0x22CC> [CBaseProviderProc::WSPAsyncSelect]
+<04/05/2014 16:58:31::018 0x22CC> [NetworkEventsSink::AddAsyncSocket] socket 1184 - Added to events sink
+<04/05/2014 16:58:31::018 0x22CC> [AsyncSocket::Initialize] socket 1184 was initialized.
+<04/05/2014 16:58:31::018 0x22CC> [HttpProxyWorker::InitializeSocket] FDM=0 (1),Req:0 *** socket 1184 was Initialized ***.
+<04/05/2014 16:58:31::018 0x22CC> [HttpProxyWorker::Initialize] FDM=0 (1) was initialized.
+<04/05/2014 16:58:31::018 0x22CC> [CEventsThread::Start - Enter]
+<04/05/2014 16:58:31::019 0x2DD8> [HttpProxyServer::UpdateLocalIPs] IP: 192.168.1.11
+<04/05/2014 16:58:31::019 0x22CC> [CEventsThread::Start - Leave] TID=2370
+<04/05/2014 16:58:31::019 0x22CC> [ProxyServer::Start] Proxy type: 0 - Done.
+<04/05/2014 16:58:31::019 0x22CC> [ProxyServer::Start] Proxy type: 1
+<04/05/2014 16:58:31::019 0x22CC> [ProxyServer::Start] Proxy type: 1 - Done.
+<04/05/2014 16:58:31::023 0x22CC> [CLspLoader::Load] LoadCollectorDll - SUCCESS
+<04/05/2014 16:58:31::035 0x2370> [CEventsThread::Work] TID=2370
+<04/05/2014 16:58:31::047 0x22CC> [CEventsThread::~CEventsThread]
+<04/05/2014 16:58:31::047 0x22CC> [CEventsThread::Cleanup]
+<04/05/2014 16:58:31::047 0x22CC> [CEventsThread::Stop - Enter] TID=0
+<04/05/2014 16:58:31::047 0x22CC> [CEventsThread::Stop - Leave] TID=0
+<04/05/2014 16:58:31::047 0x22CC> [CEventsThread::Cleanup] Closing Handle: 2
+<04/05/2014 16:58:31::047 0x22CC> [CLspLoader::LoadRedirectController]
+<04/05/2014 16:58:31::047 0x22CC> [CFullController::DoLoad]
+<04/05/2014 16:58:31::047 0x22CC> [CLspController::DoLoad]
+<04/05/2014 16:58:31::052 0x22CC> [CLspController::UpdateRedirectionTemplates]
+<04/05/2014 16:58:31::053 0x22CC> [CLspController::ClearRedirectionRulesList]
+<04/05/2014 16:58:31::053 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 209.197.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::053 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 92.123.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::054 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 122.72.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::054 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 195.90.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::055 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 221.204.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::055 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 209.73.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::055 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 68.180.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::055 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 82.166.14.0, Mask: 255.255.255.0
+<04/05/2014 16:58:31::055 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 62.90.138.0, Mask: 255.255.255.0
+<04/05/2014 16:58:31::055 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 59.151.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::055 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 209.137.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::055 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 208.116.9.205, Mask: 255.255.255.255
+<04/05/2014 16:58:31::056 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 68.180.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::056 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 209.73.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::056 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 61.160.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::056 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 202.102.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::056 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 58.53.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::056 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 59.175.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::056 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 74.125.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::057 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 208.117.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::057 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 194.221.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::057 0x22CC> [CLspController::InitPartner]
+<04/05/2014 16:58:31::057 0x22CC> [CLspController::UpdateCurrentPartener]
+<04/05/2014 16:58:31::057 0x22CC> [CLspController::UpdateCurrentPartener] YouTube Accelerator
+<04/05/2014 16:58:31::057 0x22CC> [CLspController::UpdateCurrentPartener] Done.
+<04/05/2014 16:58:31::057 0x22CC> [CLspController::InitAccelerationStatusEvents]
+<04/05/2014 16:58:31::057 0x22CC> [CLspController::InitAccelerationStatusEvents] Done.
+<04/05/2014 16:58:31::057 0x22CC> [CLspController::UpdatePartnersList]
+<04/05/2014 16:58:31::057 0x22CC> [CLspController::UpdatePartnersList] Done.
+<04/05/2014 16:58:31::057 0x22CC> [CLspController::InitTunnelingState] 
+<04/05/2014 16:58:31::058 0x22CC> [CLspController::InitTunnelingState] g_PassThrough[ YouTube Accelerator ] = 0
+<04/05/2014 16:58:31::058 0x22CC> [CDNSInterceptor::Detour]
+<04/05/2014 16:58:31::058 0x22CC> [CDNSInterceptor::Detour] gethostbyname - 1
+<04/05/2014 16:58:31::058 0x22CC> [CDNSInterceptor::Detour] getaddrinfo - 1
+<04/05/2014 16:58:31::058 0x22CC> [CDNSInterceptor::Detour] GetAddrInfoW - 1
+<04/05/2014 16:58:31::058 0x22CC> [CDNSInterceptor::Detour] GetAddrInfoExA - 1
+<04/05/2014 16:58:31::058 0x22CC> [CDNSInterceptor::Detour] GetAddrInfoExW - 1
+<04/05/2014 16:58:31::059 0x22CC> [CDNSResponse::CDNSResponse]
+<04/05/2014 16:58:31::061 0x22CC> [CLspController::AddDnsResponse] Local
+<04/05/2014 16:58:31::061 0x22CC> [CLspController::IsDomainExistInRules] Domain: www.youtube.com
+<04/05/2014 16:58:31::061 0x22CC> [CLspController::UpdateRedirectionTemplates]
+<04/05/2014 16:58:31::061 0x22CC> [CLspController::ClearRedirectionRulesList]
+<04/05/2014 16:58:31::062 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 209.197.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::063 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 92.123.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::063 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 122.72.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::063 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 195.90.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::063 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 221.204.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::064 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 209.73.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::064 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 68.180.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::064 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 82.166.14.0, Mask: 255.255.255.0
+<04/05/2014 16:58:31::064 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 62.90.138.0, Mask: 255.255.255.0
+<04/05/2014 16:58:31::064 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 59.151.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::064 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 209.137.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::064 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 208.116.9.205, Mask: 255.255.255.255
+<04/05/2014 16:58:31::064 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 68.180.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::065 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 209.73.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 61.160.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 202.102.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 58.53.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 59.175.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 74.125.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 208.117.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::UpdateRedirectionIps] Adding IP: 194.221.0.0, Mask: 255.255.0.0
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::IsDomainExistInRules] Found - Template: *.youtube.com
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::IsDomainExistInRules] Found - Template: *.youtube.com
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.88, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.90, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.91, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.95, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.99, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.101, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.102, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.106, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.110, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::066 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.112, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::067 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.113, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::067 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.117, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::067 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.121, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::067 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.123, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::067 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.80, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::067 0x22CC> [CLspController::AddDnsResponse] Adding IP: 66.18.36.84, Mask: 255.255.255.255, Ports: 80 - 80
+<04/05/2014 16:58:31::067 0x22CC> [CDNSResponse::~CDNSResponse]
+<04/05/2014 16:58:31::067 0x22CC> [CDNSResponse::CDNSResponse]
+<04/05/2014 16:58:31::067 0x22CC> [CLspController::AddDnsResponse] Local
+<04/05/2014 16:58:31::067 0x22CC> [CLspController::IsDomainExistInRules] Domain: 
+<04/05/2014 16:58:31::067 0x22CC> [CLspController::IsDomainExistInRules] Not Found
+<04/05/2014 16:58:31::069 0x22CC> [CDNSResponse::~CDNSResponse]
+<04/05/2014 16:58:31::069 0x22CC> [CLspController::DoLoad] Hook status 1
+<04/05/2014 16:58:31::069 0x22CC> [CLspLoader::LoadRedirectController] LSP Controller Started
+<04/05/2014 16:58:31::069 0x22CC> [CLSPFilter::LoadAccelerator] Done - OK
+<04/05/2014 16:58:31::071 0x22CC> [CFullController::IsEnable]
+<04/05/2014 16:58:31::071 0x22CC> [CFullController::IsAlive]
+<04/05/2014 16:58:31::993 0x28E8> [CBaseProviderProc::AddProtocol]
+<04/05/2014 16:58:32::024 0x2964> [CBaseProviderProc::AddProtocol]
+<04/05/2014 16:58:32::182 0x2964> [CDNSResponse::CDNSResponse]
+<04/05/2014 16:58:32::183 0x2964> [CLspController::AddDnsResponse] Local
+<04/05/2014 16:58:32::183 0x2964> [CLspController::IsDomainExistInRules] Domain: test.youtubeaccelerator.com
+<04/05/2014 16:58:32::183 0x2964> [CLspController::IsDomainExistInRules] Not Found
+<04/05/2014 16:58:32::183 0x2964> [CDNSResponse::~CDNSResponse]
+<04/05/2014 16:58:32::184 0x2964> [CFullController::IsEnable]
+<04/05/2014 16:58:32::184 0x2964> [CFullController::IsAlive]
+<04/05/2014 16:58:32::185 0x2964> [CVirtualAsyncSocket] (ID=3)
+<04/05/2014 16:58:32::190 0x2964> [CVirtualAsyncSocket::Reset] virtual socket -1
+<04/05/2014 16:58:32::190 0x2964> [CVirtualAsyncSocket::SetSockName] virtual socket -1, IP: 0.0.0.0, Port: 51398
+<04/05/2014 16:58:32::190 0x2964> [CLspController::IsToAccelerate] IP: 107.20.238.80, Port: 80
+<04/05/2014 16:58:32::190 0x2964> [CLspController::GetVersionStatus] VesrionStatus = 1
+<04/05/2014 16:58:32::190 0x2964> [CLspController::IsToAccelerate] returns FALSE - Could not find the IP in list!
+<04/05/2014 16:58:32::190 0x2964> [~CVirtualAsyncSocket] virtual socket: -1, (ID=3)
+<04/05/2014 16:58:32::190 0x2964> [CVirtualAsyncSocket::Reset] virtual socket -1
+<04/05/2014 16:58:32::190 0x2964> [DestroyVirtualSocket::DestroyVirtualSocket] Deleted: 03109E80
+<04/05/2014 16:58:33::616 0x2964> [CVirtualAsyncSocket] (ID=4)
+<04/05/2014 16:58:33::616 0x2964> [CVirtualAsyncSocket::Reset] virtual socket -1
+<04/05/2014 16:58:33::616 0x2964> [CLSPFilter::AddSocket] virtual socket 1380
+<04/05/2014 16:58:33::616 0x2964> [CVirtualAsyncSocket::Ioctl] virtual socket 1380 - cmd: 0x8004667E, argp: 04D3FB04
+<04/05/2014 16:58:33::616 0x2964> [CVirtualAsyncSocket::Ioctl] virtual socket 1380 - FIONBIO: set to - NONE BLOCKING !
+<04/05/2014 16:58:33::616 0x2964> [CLSPFilter::WSPIoctl] virtual socket 1380, Code: 0x8004667E
+<04/05/2014 16:58:33::616 0x2964> [CVirtualAsyncSocket::Ioctl] virtual socket 1380 - cmd: 0x8004667E, argp: 04D3FB00
+<04/05/2014 16:58:33::616 0x2964> [CVirtualAsyncSocket::Ioctl] virtual socket 1380 - FIONBIO: set to - BLOCKING !
+<04/05/2014 16:58:44::814 0x2E5C> [NetworkEventsSink::Find] socket -1398597245
+<04/05/2014 16:58:44::814 0x2E5C> [NetworkEventsSink::WindowProc] Finished UNSUPPORTED_EVENT (12224) on socket -1398597245. Err: 0

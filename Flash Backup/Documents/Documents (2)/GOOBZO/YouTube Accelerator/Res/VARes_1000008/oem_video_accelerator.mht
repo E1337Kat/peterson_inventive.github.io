@@ -1,0 +1,385 @@
+From: <Saved by Windows Internet Explorer 8>
+Subject: Goobzo YouTube Accelerator
+Date: Wed, 29 May 2013 15:22:35 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CE5C80.5882A7D0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.4913
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CE5C80.5882A7D0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:83/youtubeaccelerator/youtube_accelerator.html
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML XMLNS:VA =3D =
+"20xmlns=3D3D"http://www.w3.org/1999/xhtml""><HEAD><TITLE>Goobzo YouTube =
+Accelerator</TITLE>
+<META content=3D"text/html; charset=3Dutf-8" http-equiv=3DContent-Type>
+<META name=3Dwidth content=3D400>
+<META name=3Dheight content=3D160>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.19412">
+<STYLE type=3Dtext/css>BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: =
+0px; FONT-FAMILY: Trebuchet MS; COLOR: black; FONT-SIZE: 11px; =
+PADDING-TOP: 0px
+}
+IMG {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-LEFT-WIDTH: 0px
+}
+A {
+	COLOR: #3382c1
+}
+.closediv {
+	MARGIN: 5px 5px 0px 0px; FLOAT: right
+}
+A.close {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 13px; PADDING-RIGHT: =
+0px; DISPLAY: block; BACKGROUND: =
+url(http://localhost:83/youtubeaccelerator/images/close.gif) no-repeat; =
+HEIGHT: 13px; CURSOR: pointer; PADDING-TOP: 0px
+}
+A.close:hover {
+	BACKGROUND: =
+url(http://localhost:83/youtubeaccelerator/images/closehover.gif) =
+no-repeat
+}
+.wrap {
+	BORDER-BOTTOM: #b1b1b1 1px solid; BORDER-LEFT: #b1b1b1 1px solid; =
+PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 398px; PADDING-RIGHT: =
+0px; HEIGHT: 158px; BORDER-TOP: #b1b1b1 1px solid; BORDER-RIGHT: #b1b1b1 =
+1px solid; PADDING-TOP: 0px
+}
+.wrap .header {
+	WIDTH: 398px; BACKGROUND: =
+url(http://localhost:83/youtubeaccelerator/images/headerm.png) #b1b1b1 =
+no-repeat; HEIGHT: 24px
+}
+.wrap .contentwrap {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #e2e3e3; PADDING-LEFT: 15px; =
+PADDING-RIGHT: 15px; HEIGHT: 110px; PADDING-TOP: 24px
+}
+.searchwrap {
+	BORDER-BOTTOM: #a7a7a7 1px solid; HEIGHT: 44px
+}
+.searchfield {
+	BORDER-BOTTOM: #a7a7a7 1px solid; BORDER-LEFT: #a7a7a7 1px solid; =
+WIDTH: 262px; HEIGHT: 21px; COLOR: #000000; FONT-SIZE: 12px; BORDER-TOP: =
+#a7a7a7 1px solid; BORDER-RIGHT: #a7a7a7 1px solid
+}
+.searchbtnwrap {
+	BORDER-BOTTOM: #2560a7 1px solid; BORDER-LEFT: #2560a7 1px solid; =
+WIDTH: 90px; DISPLAY: inline-block; BORDER-TOP: #2560a7 1px solid; =
+BORDER-RIGHT: #2560a7 1px solid
+}
+.searchbtn {
+	BORDER-BOTTOM: #4a7ebb 1px solid; BORDER-LEFT: #4c7fbb 1px solid; =
+BACKGROUND-COLOR: #497dba; WIDTH: 91px; HEIGHT: 23px; COLOR: #ffffff; =
+FONT-SIZE: 11px; BORDER-TOP: #5283bd 1px solid; BORDER-RIGHT: #4a7ebb =
+1px solid
+}
+.support {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 10px
+}
+.invite {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 10px
+}
+.clearall {
+	HEIGHT: 0px; CLEAR: both; FONT-SIZE: 1px
+}
+.supportedBtn {
+	BORDER-BOTTOM: #a7a7a7 1px solid; BORDER-LEFT: #a7a7a7 1px solid; =
+MARGIN-TOP: 7px; HEIGHT: 24px; BORDER-TOP: #a7a7a7 1px solid; =
+BORDER-RIGHT: #a7a7a7 1px solid
+}
+.supportedBtn A {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 11px; PADDING-RIGHT: 11px; DISPLAY: =
+block; BACKGROUND: =
+url(http://localhost:83/youtubeaccelerator/images/btnbg.gif) repeat-x; =
+HEIGHT: 14px; COLOR: #000000; FONT-SIZE: 11px; OVERFLOW: hidden; =
+TEXT-DECORATION: none; PADDING-TOP: 5px
+}
+.supportedBtn A:hover {
+	BACKGROUND: =
+url(http://localhost:83/youtubeaccelerator/images/btnbghover.gif) =
+repeat-x 1px 2px
+}
+.optionsBtn {
+	BORDER-BOTTOM: #a7a7a7 1px solid; BORDER-LEFT: #a7a7a7 1px solid; =
+MARGIN-TOP: 7px; HEIGHT: 24px; BORDER-TOP: #a7a7a7 1px solid; =
+BORDER-RIGHT: #a7a7a7 1px solid
+}
+.optionsBtn A {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 25px; PADDING-RIGHT: 25px; DISPLAY: =
+block; BACKGROUND: =
+url(http://localhost:83/youtubeaccelerator/images/btnbg.gif) repeat-x; =
+HEIGHT: 14px; COLOR: #000000; FONT-SIZE: 11px; OVERFLOW: hidden; =
+TEXT-DECORATION: none; PADDING-TOP: 5px
+}
+.optionsBtn A:hover {
+	BACKGROUND: =
+url(http://localhost:83/youtubeaccelerator/images/btnbghover.gif) =
+repeat-x 1px 2px
+}
+.floatright {
+	FLOAT: right
+}
+.floatleft {
+	FLOAT: left
+}
+.hiddenimg {
+	POSITION: absolute; VISIBILITY: hidden; TOP: 0px
+}
+</STYLE>
+
+<SCRIPT language=3DJavaScript type=3Dtext/javascript=20
+src=3D"http://localhost:83/youtubeaccelerator/yta.js"></SCRIPT>
+
+</HEAD>
+<BODY=20
+style=3D"PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px; PADDING-TOP: 0px">
+<DIV id=3Dwrap class=3Dwrap>
+<DIV id=3Dtitle class=3Dheader name=3D"title">
+<DIV class=3Dclosediv><A id=3DbtnClose class=3Dclose href=3D"javascript: =
+void(0);"=20
+name=3DbtnClose></A></DIV></DIV>
+<DIV class=3Dcontentwrap><!--Search-->
+<DIV class=3Dsearchwrap>
+<FORM id=3Dtsf class=3Dsearchform method=3Dpost name=3Dgs action=3D""=20
+target=3Dsearchresults><INPUT id=3Dq class=3Dsearchfield title=3DSearch=20
+onkeypress=3D"return checkEnter(event);" maxLength=3D2048 name=3Dq=20
+AUTOCOMPLETE=3D"off">&nbsp; <SPAN class=3Dsearchbtnwrap><INPUT =
+class=3Dsearchbtn title=3Dsearch onclick=3DsubmitForm() value=3D"Search =
+Video" type=3Dbutton name=3Dsubmitbtn></SPAN>=20
+</FORM></DIV>
+<DIV class=3Dsupport><A id=3DfeedbackLink=20
+href=3D"http://www.youtubeaccelerator.com/feedback/" =
+target=3D_blank>Send us your feedback</A>
+<DIV id=3DHDSites class=3DsupportedBtn><A id=3Dsupported_link=20
+href=3D"http://www.youtubeaccelerator.com/support/video-sites/"=20
+target=3D_blank>Supported video sites</A></DIV></DIV>
+<DIV class=3Dinvite><A =
+href=3D"http://www.youtubeaccelerator.com/invite-friend/"=20
+target=3D_blank>Invite a =
+friend</A>
+<DIV id=3DOptions class=3DoptionsBtn name=3D"Options"><A id=3DOptions=20
+href=3D"javascript: void(0);" name=3DOptions>Options</A></DIV></DIV>
+<DIV class=3Dclearall></DIV></DIV></DIV>
+<DIV class=3Dhiddenimg><IMG alt=3D""=20
+src=3D"http://localhost:83/youtubeaccelerator/images/headerm.png" =
+width=3D0=20
+height=3D0> <IMG alt=3D""=20
+src=3D"http://localhost:83/youtubeaccelerator/images/close.gif" =
+width=3D0 height=3D0>=20
+<IMG alt=3D"" =
+src=3D"http://localhost:83/youtubeaccelerator/images/closehover.gif"=20
+width=3D0 height=3D0> <IMG alt=3D""=20
+src=3D"http://localhost:83/youtubeaccelerator/images/btnbg.gif" =
+width=3D0 height=3D0>=20
+<IMG alt=3D"" =
+src=3D"http://localhost:83/youtubeaccelerator/images/btnbghover.gif"=20
+width=3D0 height=3D0> </DIV></BODY></HTML>
+
+------=_NextPart_000_0000_01CE5C80.5882A7D0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://localhost:83/youtubeaccelerator/images/headerm.png
+
+iVBORw0KGgoAAAANSUhEUgAAAJUAAAAXCAYAAAAC2g2cAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
+IiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RS
+ZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpD
+cmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlE
+PSJ4bXAuaWlkOjA2NkQ5NzNDQTI5QTExRTJBQ0I2OUE4ODlCQjI1NDE2IiB4bXBNTTpEb2N1bWVu
+dElEPSJ4bXAuZGlkOjA2NkQ5NzNEQTI5QTExRTJBQ0I2OUE4ODlCQjI1NDE2Ij4gPHhtcE1NOkRl
+cml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MDY2RDk3M0FBMjlBMTFFMkFDQjY5
+QTg4OUJCMjU0MTYiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDY2RDk3M0JBMjlBMTFFMkFD
+QjY5QTg4OUJCMjU0MTYiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1l
+dGE+IDw/eHBhY2tldCBlbmQ9InIiPz4IWwisAAAGZklEQVR42uyaT0ycRRTA3+z/PyAstLTWC11S
+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
+
+------=_NextPart_000_0000_01CE5C80.5882A7D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://localhost:83/youtubeaccelerator/images/close.gif
+
+R0lGODlhBwAHAIABAH9/gf///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlk
+PSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpu
+czptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEw
+LzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cu
+dzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjph
+Ym91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnht
+cE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDov
+L25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29s
+PSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6
+NkEyODcxN0RBMjk5MTFFMjgxQjY5MUMwQUQ3MzI5RjgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5k
+aWQ6NkEyODcxN0VBMjk5MTFFMjgxQjY5MUMwQUQ3MzI5RjgiPiA8eG1wTU06RGVyaXZlZEZyb20g
+c3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2QTI4NzE3QkEyOTkxMUUyODFCNjkxQzBBRDczMjlG
+OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2QTI4NzE3Q0EyOTkxMUUyODFCNjkxQzBBRDcz
+MjlGOCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFj
+a2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV
+1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2c
+m5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRj
+YmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsq
+KSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAEALAAAAAAH
+AAcAAAIMBIIWqtm4oDtunWcKADs=
+
+------=_NextPart_000_0000_01CE5C80.5882A7D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://localhost:83/youtubeaccelerator/images/closehover.gif
+
+R0lGODlhBwAHAIABAAAAAP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlk
+PSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpu
+czptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEw
+LzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cu
+dzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjph
+Ym91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnht
+cE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDov
+L25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29s
+PSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6
+NjFEQTdFQTFBMjk5MTFFMjkwRDlGRjJDMEUzMzJEMTkiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5k
+aWQ6NjFEQTdFQTJBMjk5MTFFMjkwRDlGRjJDMEUzMzJEMTkiPiA8eG1wTU06RGVyaXZlZEZyb20g
+c3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2MURBN0U5RkEyOTkxMUUyOTBEOUZGMkMwRTMzMkQx
+OSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2MURBN0VBMEEyOTkxMUUyOTBEOUZGMkMwRTMz
+MkQxOSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFj
+a2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV
+1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2c
+m5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRj
+YmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsq
+KSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAEALAAAAAAH
+AAcAAAIMBIIWqtm4oDtunWcKADs=
+
+------=_NextPart_000_0000_01CE5C80.5882A7D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://localhost:83/youtubeaccelerator/images/btnbg.gif
+
+R0lGODlhAQAWAMQAAPj4+PX19efn5+Tk5Pv7+/Ly8vr6+v39/f7+/urq6uLi4vDw8Ozs7PPz8+/v
+7+Hh4e3t7enp6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C1hN
+UCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtj
+OWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUg
+WE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAi
+PiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5
+bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6
+Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29t
+L3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NU
+eXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdp
+bmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NzE4NjFENzFBMDYzMTFFMkE4QjdCOUM2
+NUYxQTlCQUIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NzE4NjFENzJBMDYzMTFFMkE4QjdC
+OUM2NUYxQTlCQUIiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlp
+ZDo3MTg2MUQ2RkEwNjMxMUUyQThCN0I5QzY1RjFBOUJBQiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1w
+LmRpZDo3MTg2MUQ3MEEwNjMxMUUyQThCN0I5QzY1RjFBOUJBQiIvPiA8L3JkZjpEZXNjcmlwdGlv
+bj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf2
+9fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769
+vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWE
+g4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxL
+SklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMS
+ERAPDg0MCwoJCAcGBQQDAgEAACH5BAAAAAAALAAAAAABABYAAAUSIHIQBgAEQVMsDsQkkSAMg/KE
+ADs=
+
+------=_NextPart_000_0000_01CE5C80.5882A7D0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://localhost:83/youtubeaccelerator/images/btnbghover.gif
+
+R0lGODlhAQAWAMQAAPj4+PX19efn5+Tk5Pv7+/Ly8vr6+v39/f7+/urq6uLi4vDw8Ozs7PPz8+/v
+7+Hh4e3t7enp6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C1hN
+UCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtj
+OWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUg
+WE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAi
+PiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5
+bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6
+Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29t
+L3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NU
+eXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdp
+bmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QTk2NjdGQTVBMDY5MTFFMkI5MDhGQjZD
+M0FERDA3MTUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QTk2NjdGQTZBMDY5MTFFMkI5MDhG
+QjZDM0FERDA3MTUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlp
+ZDpBOTY2N0ZBM0EwNjkxMUUyQjkwOEZCNkMzQUREMDcxNSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1w
+LmRpZDpBOTY2N0ZBNEEwNjkxMUUyQjkwOEZCNkMzQUREMDcxNSIvPiA8L3JkZjpEZXNjcmlwdGlv
+bj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf2
+9fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769
+vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWE
+g4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxL
+SklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMS
+ERAPDg0MCwoJCAcGBQQDAgEAACH5BAAAAAAALAAAAAABABYAAAUS4KMMgyBECQM5S9EEAQAYxIGE
+ADs=
+
+------=_NextPart_000_0000_01CE5C80.5882A7D0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:83/youtubeaccelerator/yta.js
+
+=EF=BB=BFfunction submitForm() {
+	if(document.getElementById("q").value !=3D "") {
+		document.gs.action =3D 'http://home.speedbit.com/video.aspx?q=3D'+ =
+document.gs.q.value;
+		document.gs.submit();
+	}
+}
+
+function checkEnter(e){ //e is event object passed from function =
+invocation
+	if(e.keyCode =3D=3D 13){ //if generated character code is equal to =
+ascii 13 (if enter key)
+		gs.submitbtn.click();
+		return false;
+	} else {
+		return true;
+	}
+}
+
+function checkEnter(e){ //e is event object passed from function =
+invocation
+	if(e.keyCode =3D=3D 13){ //if generated character code is equal to =
+ascii 13 (if enter key)
+		gs.submitbtn.click();
+		return false;
+	} else {
+		return true;
+	}
+}
+------=_NextPart_000_0000_01CE5C80.5882A7D0--

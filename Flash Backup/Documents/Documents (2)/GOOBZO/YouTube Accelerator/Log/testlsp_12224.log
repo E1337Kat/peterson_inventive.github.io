@@ -1,0 +1,24 @@
+<04/05/2014 16:58:29::598 0x2EF8> Module info - 
+
+Name: testlsp.exe
+Path: C:\Program Files (x86)\YouTube Accelerator\testlsp.exe
+Version: 3.3.9.5
+
+
+<04/05/2014 16:58:29::598 0x2EF8> [CMainDlg::CMainDlg]
+<04/05/2014 16:58:29::598 0x2EF8> [CMainDlg::SetCommandLine]
+<04/05/2014 16:58:29::918 0x2EF8> [CMainDlg::OnInitDialog]
+<04/05/2014 16:58:29::920 0x2EF8> [CMainDlg::CreateWebWindow]
+<04/05/2014 16:58:29::950 0x2EF8> [CMainDlg::SetCommandLine]
+<04/05/2014 16:58:30::569 0x2EF8> [CMainDlg::SetCommandLine] Done.
+<04/05/2014 16:58:30::569 0x2EF8> [CMainDlg::Navigate] URL: http://test.youtubeaccelerator.com/youtube_accelerator/wizardtest/SMALLTEST.HTM?random=5024355&mode=nolsp
+<04/05/2014 16:58:32::011 0x2EF8> [CMainDlg::OnInitDialog] Done.
+<04/05/2014 16:58:35::267 0x2EF8> [CMainDlg::OnNavigateComplete2]
+<04/05/2014 16:58:40::749 0x2EF8> [CMainDlg::OnDocumentComplete]
+<04/05/2014 16:58:40::749 0x2EF8> [CMainDlg::CloseDialog]
+<04/05/2014 16:58:44::130 0x2EF8> [CMainDlg::~CMainDlg]
+<04/05/2014 16:58:44::131 0x2EF8> [CEventsThread::~CEventsThread]
+<04/05/2014 16:58:44::131 0x2EF8> [CEventsThread::Cleanup]
+<04/05/2014 16:58:44::131 0x2EF8> [CEventsThread::Stop - Enter] TID=0
+<04/05/2014 16:58:44::131 0x2EF8> [CEventsThread::Stop - Leave] TID=0
+<04/05/2014 16:58:44::131 0x2EF8> [CEventsThread::Cleanup] Closing Handle: 2
