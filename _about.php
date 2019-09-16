@@ -40,11 +40,11 @@
 
 			<div id="navBar">
 				<ul>
-					<li><a href="index.php">Home</a></li>
-					<li><a href="showroom.php">Showroom</a></li>
-					<li><a href="price.php">Prices</a></li>
-					<li><a href="about.php">About</a></li>
-					<li><a href="yard.php">Yard Pictures</a></li>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="showroom.html">Showroom</a></li>
+					<li><a href="price.html">Prices</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="yard.html">Yard Pictures</a></li>
 				</ul>
 			</div>
 			<!--Body Content-->
